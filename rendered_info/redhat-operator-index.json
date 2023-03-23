@@ -564,7 +564,7 @@
         {
             "package_name": "3scale-operator",
             "display_name": "Red Hat Integration - 3scale",
-            "latest_version": "0.11.2-mas",
+            "latest_version": "0.11.3-mas",
             "latest_channel": "threescale-mas",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1037,7 +1037,7 @@
         {
             "package_name": "apicast-operator",
             "display_name": "Red Hat Integration - 3scale APIcast gateway",
-            "latest_version": "0.7.3-mas",
+            "latest_version": "0.7.4-mas",
             "latest_channel": "threescale-mas",
             "disconnected_supported": true,
             "fips_supported": false,
