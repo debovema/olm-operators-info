@@ -80,7 +80,7 @@
         {
             "package_name": "gpu-operator-certified",
             "display_name": "NVIDIA GPU Operator",
-            "latest_version": "22.9.2",
+            "latest_version": "23.3.1",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
