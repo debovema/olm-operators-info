@@ -25,7 +25,7 @@
         {
             "package_name": "habana-ai-operator",
             "display_name": "Habana AI",
-            "latest_version": "1.9.0-580",
+            "latest_version": "1.9.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -201,7 +201,7 @@
         {
             "package_name": "cilium-enterprise",
             "display_name": "Cilium Enterprise",
-            "latest_version": "1.12.8-x87b90a9",
+            "latest_version": "1.12.9-x4be66e4",
             "latest_channel": "1.12",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -531,7 +531,7 @@
         {
             "package_name": "minio-operator",
             "display_name": "Minio Operator",
-            "latest_version": "4.5.8",
+            "latest_version": "5.0.3",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
