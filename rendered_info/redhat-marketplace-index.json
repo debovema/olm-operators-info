@@ -311,7 +311,7 @@
         {
             "package_name": "k10-kasten-operator-paygo-rhmp",
             "display_name": "Kasten K10 (Enterprise - PAYGO)",
-            "latest_version": "5.5.8",
+            "latest_version": "5.5.9",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
