@@ -388,8 +388,8 @@
         {
             "package_name": "couchbase-enterprise-certified",
             "display_name": "Couchbase Operator",
-            "latest_version": "2.4.0-2",
-            "latest_channel": "2.4.0",
+            "latest_version": "2.4.1-2",
+            "latest_channel": "2.4.1",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Auto Pilot",
@@ -652,7 +652,7 @@
         {
             "package_name": "cloud-native-postgresql",
             "display_name": "EDB Postgres for Kubernetes",
-            "latest_version": "1.20.1",
+            "latest_version": "1.20.1-1",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -718,7 +718,7 @@
         {
             "package_name": "cilium",
             "display_name": "Cilium",
-            "latest_version": "1.13.3-x5854d64",
+            "latest_version": "1.13.4-x129f2a7",
             "latest_channel": "1.13",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -905,7 +905,7 @@
         {
             "package_name": "cilium-enterprise",
             "display_name": "Cilium Enterprise",
-            "latest_version": "1.13.3-x69e9561",
+            "latest_version": "1.13.4-xc8b22ea",
             "latest_channel": "1.13",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1048,12 +1048,12 @@
         {
             "package_name": "uma-operator",
             "display_name": "DX APM Universal Monitoring Agent",
-            "latest_version": "2023.3.3-12",
+            "latest_version": "2023.5.1-13",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/CA-Application-Performance-Management/certified-operators/tree/main/operators/uma-operator/2022.11.3",
+            "repository": "https://github.com/CA-Application-Performance-Management/certified-operators/tree/main/operators/uma-operator/2023.5.1",
             "documentation_url": ""
         },
         {
@@ -1114,7 +1114,7 @@
         {
             "package_name": "uma-team-operator",
             "display_name": "DX APM Universal Monitoring Agent Team For Multi-tenancy",
-            "latest_version": "2023.3.3-12",
+            "latest_version": "2023.5.1-13",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1279,7 +1279,7 @@
         {
             "package_name": "uma-admin-operator",
             "display_name": "DX APM Universal Monitoring Agent Admin For Multi-tenancy",
-            "latest_version": "2023.3.3-12",
+            "latest_version": "2023.5.1-13",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
