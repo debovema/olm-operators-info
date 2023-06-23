@@ -454,7 +454,7 @@
         {
             "package_name": "zookeeper-operator",
             "display_name": "ZooKeeper Operator",
-            "latest_version": "0.16.2",
+            "latest_version": "0.16.4",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -608,7 +608,7 @@
         {
             "package_name": "couchbase-enterprise-certified",
             "display_name": "Couchbase Operator",
-            "latest_version": "2.4.1-2",
+            "latest_version": "2.4.1-4",
             "latest_channel": "2.4.1",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -751,7 +751,7 @@
         {
             "package_name": "pulsar-operator",
             "display_name": "Pulsar Operator",
-            "latest_version": "0.16.2",
+            "latest_version": "0.16.4",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -839,7 +839,7 @@
         {
             "package_name": "bookkeeper-operator",
             "display_name": "BookKeeper Operator",
-            "latest_version": "0.16.2",
+            "latest_version": "0.16.4",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1147,7 +1147,7 @@
         {
             "package_name": "redis-enterprise-operator-cert",
             "display_name": "Redis Enterprise Operator",
-            "latest_version": "6.4.2-5.0",
+            "latest_version": "6.4.2-6.0",
             "latest_channel": "6.4.2",
             "disconnected_supported": true,
             "fips_supported": false,
