@@ -14,8 +14,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.9.2",
-            "latest_channel": "stable",
+            "latest_version": "8.9.3-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -298,6 +298,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "keysight-keycloak-operator",
+            "display_name": "Keysight Keycloak Operator",
+            "latest_version": "0.1.10",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "percona-postgresql-operator-certified",
             "display_name": "Percona Operator for PostgreSQL",
             "latest_version": "1.4.1",
@@ -421,7 +432,7 @@
         {
             "package_name": "intel-device-plugins-operator",
             "display_name": "Intel Device Plugins Operator",
-            "latest_version": "0.24.0",
+            "latest_version": "0.26.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -685,7 +696,7 @@
         {
             "package_name": "minio-operator",
             "display_name": "Minio Operator",
-            "latest_version": "5.0.5",
+            "latest_version": "5.0.6",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1103,11 +1114,11 @@
         {
             "package_name": "infinibox-operator-certified",
             "display_name": "InfiniBox CSI Driver - Operator",
-            "latest_version": "2.6.0",
+            "latest_version": "2.7.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
-            "capabilities": "Basic Install",
+            "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/Infinidat/infinibox-csi-driver",
             "documentation_url": ""
         },

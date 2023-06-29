@@ -718,7 +718,7 @@
         {
             "package_name": "cluster-aas-operator",
             "display_name": "Cluster as a service operator",
-            "latest_version": "0.1.0",
+            "latest_version": "0.1.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -762,7 +762,7 @@
         {
             "package_name": "sap-data-intelligence-observer-operator",
             "display_name": "SAP Data Intelligence 3 - Observer Operator",
-            "latest_version": "1.0.1",
+            "latest_version": "1.0.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -773,7 +773,7 @@
         {
             "package_name": "awx-operator",
             "display_name": "AWX",
-            "latest_version": "2.2.1",
+            "latest_version": "2.3.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -828,7 +828,7 @@
         {
             "package_name": "maistraoperator",
             "display_name": "maistraoperator",
-            "latest_version": "3.0.0-nightly-2023-06-27",
+            "latest_version": "3.0.0-nightly-2023-06-28",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
