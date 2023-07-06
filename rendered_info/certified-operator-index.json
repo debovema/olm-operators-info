@@ -135,7 +135,7 @@
         {
             "package_name": "pulsar-operator",
             "display_name": "Pulsar Operator",
-            "latest_version": "0.16.4",
+            "latest_version": "0.17.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -399,7 +399,7 @@
         {
             "package_name": "bookkeeper-operator",
             "display_name": "BookKeeper Operator",
-            "latest_version": "0.16.4",
+            "latest_version": "0.17.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -772,8 +772,8 @@
         },
         {
             "package_name": "k8s-triliovault",
-            "display_name": "TrilioVault for Kubernetes",
-            "latest_version": "3.1.0",
+            "display_name": "Trilio for Kubernetes",
+            "latest_version": "3.1.1",
             "latest_channel": "3.1.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1015,7 +1015,7 @@
         {
             "package_name": "zookeeper-operator",
             "display_name": "ZooKeeper Operator",
-            "latest_version": "0.16.4",
+            "latest_version": "0.17.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
