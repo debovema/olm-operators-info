@@ -696,7 +696,7 @@
         {
             "package_name": "ansible-cloud-addons-operator",
             "display_name": "Ansible Cloud Addons",
-            "latest_version": "2.4.0-0.1687274321",
+            "latest_version": "2.4.0-0.1688095749",
             "latest_channel": "stable-2.4-cluster-scoped",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -948,8 +948,8 @@
         },
         {
             "package_name": "skupper-operator",
-            "display_name": "Skupper",
-            "latest_version": "1.2.2",
+            "display_name": "Red Hat Service Interconnect",
+            "latest_version": "1.4.1-rh-1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1026,7 +1026,7 @@
         {
             "package_name": "ansible-automation-platform-operator",
             "display_name": "Ansible Automation Platform",
-            "latest_version": "2.4.0-0.1687278312",
+            "latest_version": "2.4.0-0.1688101096",
             "latest_channel": "stable-2.4-cluster-scoped",
             "disconnected_supported": true,
             "fips_supported": false,

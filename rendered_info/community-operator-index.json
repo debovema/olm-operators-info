@@ -58,7 +58,7 @@
         {
             "package_name": "codeflare-operator",
             "display_name": "CodeFlare Operator",
-            "latest_version": "0.0.5",
+            "latest_version": "0.0.6",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -971,7 +971,7 @@
         {
             "package_name": "awx-operator",
             "display_name": "AWX",
-            "latest_version": "2.3.0",
+            "latest_version": "2.4.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1059,7 +1059,7 @@
         {
             "package_name": "cluster-relocation-operator",
             "display_name": "Cluster Relocation Operator",
-            "latest_version": "0.9.2",
+            "latest_version": "0.9.3",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1279,7 +1279,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "0.21.1",
+            "latest_version": "0.21.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1367,7 +1367,7 @@
         {
             "package_name": "maistraoperator",
             "display_name": "maistraoperator",
-            "latest_version": "3.0.0-nightly-2023-07-09",
+            "latest_version": "3.0.0-nightly-2023-07-10",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1961,8 +1961,8 @@
         {
             "package_name": "grafana-operator",
             "display_name": "Grafana Operator",
-            "latest_version": "5.0.2",
-            "latest_channel": "alpha",
+            "latest_version": "5.1.0",
+            "latest_channel": "v5",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -2170,7 +2170,7 @@
         {
             "package_name": "opentelemetry-operator",
             "display_name": "Community OpenTelemetry Operator",
-            "latest_version": "0.80.0",
+            "latest_version": "0.81.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
