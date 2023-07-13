@@ -872,12 +872,12 @@
         {
             "package_name": "sosivio",
             "display_name": "Sosivio | Predictive Troubleshooting for Kubernetes",
-            "latest_version": "1.5.3-82-ubi",
+            "latest_version": "1.6.0-88-ubi",
             "latest_channel": "stable",
-            "disconnected_supported": false,
+            "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Auto Pilot",
-            "repository": "https://github.com/Sosivio/operator",
+            "repository": null,
             "documentation_url": "https://docs.sosiv.io"
         },
         {
@@ -1389,8 +1389,8 @@
         {
             "package_name": "couchbase-enterprise-certified",
             "display_name": "Couchbase Operator",
-            "latest_version": "2.4.1-4",
-            "latest_channel": "2.4.1",
+            "latest_version": "2.4.2-1",
+            "latest_channel": "2.4.2",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Auto Pilot",
