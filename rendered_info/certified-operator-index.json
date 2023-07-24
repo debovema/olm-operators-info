@@ -883,7 +883,7 @@
         {
             "package_name": "sosivio",
             "display_name": "Sosivio | Predictive Troubleshooting for Kubernetes",
-            "latest_version": "1.6.0-88-ubi",
+            "latest_version": "1.6.1-92-ubi",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
