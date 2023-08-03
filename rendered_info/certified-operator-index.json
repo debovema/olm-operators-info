@@ -1,6 +1,17 @@
 {
     "operators_list": [
         {
+            "package_name": "keysight-kcos-ingress",
+            "display_name": "Keysight KCOS Ingress Operator",
+            "latest_version": "0.1.11",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "keysight-wap-db",
             "display_name": "Keysight WAP DB Operator",
             "latest_version": "0.1.11",
@@ -31,6 +42,17 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/citrix/citrix-xds-adaptor",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "keysight-wap-migration",
+            "display_name": "Keysight WAP Migration Operator",
+            "latest_version": "0.1.11",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
             "documentation_url": ""
         },
         {
@@ -160,6 +182,17 @@
             "latest_version": "1.1.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
+            "package_name": "keysight-kcos-framework",
+            "display_name": "Keysight KCOS Framework Operator",
+            "latest_version": "0.1.11",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": null,
@@ -729,7 +762,7 @@
         {
             "package_name": "keysight-keycloak-operator",
             "display_name": "Keysight Keycloak Operator",
-            "latest_version": "0.1.10",
+            "latest_version": "0.1.11",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -784,7 +817,7 @@
         {
             "package_name": "redis-enterprise-operator-cert",
             "display_name": "Redis Enterprise Operator",
-            "latest_version": "6.4.2-6.0",
+            "latest_version": "6.4.2-8.0",
             "latest_channel": "6.4.2",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -828,7 +861,7 @@
         {
             "package_name": "nxrm-operator-certified",
             "display_name": "Nexus Repository Operator",
-            "latest_version": "3.58.1-1",
+            "latest_version": "3.58.1-2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -839,6 +872,17 @@
         {
             "package_name": "keysight-wap-notifications",
             "display_name": "Keysight WAP Notifications Operator",
+            "latest_version": "0.1.11",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
+            "package_name": "keysight-wap-diagnostics",
+            "display_name": "Keysight WAP Diagnostics Operator",
             "latest_version": "0.1.11",
             "latest_channel": "alpha",
             "disconnected_supported": false,
@@ -1167,6 +1211,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "keysight-wap-ui",
+            "display_name": "Keysight WAP UI Operator",
+            "latest_version": "0.1.11",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "antrea-operator-for-kubernetes",
             "display_name": "Antrea Operator",
             "latest_version": "1.12.0",
@@ -1354,6 +1409,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "keysight-nats-operator",
+            "display_name": "Keysight Nats Operator",
+            "latest_version": "0.1.11",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "pulsar-operator",
             "display_name": "Pulsar Operator",
             "latest_version": "0.17.0",
@@ -1390,6 +1456,17 @@
             "package_name": "memcached-operator-ogaye",
             "display_name": "memcached-operator-ogaye",
             "latest_version": "0.0.1",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
+            "package_name": "keysight-websocket-service",
+            "display_name": "Keysight Websocket Operator",
+            "latest_version": "0.1.11",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1543,8 +1620,8 @@
         {
             "package_name": "t8c-tsc-client-certified",
             "display_name": "Turbonomic Secure Connect Client",
-            "latest_version": "1.2.0",
-            "latest_channel": "stable",
+            "latest_version": "1.2.3-candidate-20230704092755000",
+            "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
