@@ -289,7 +289,7 @@
         {
             "package_name": "bare-metal-event-relay",
             "display_name": "Bare Metal Event Relay",
-            "latest_version": "4.12.3",
+            "latest_version": "4.12.4",
             "latest_channel": "4.12",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -311,9 +311,9 @@
         {
             "package_name": "skupper-operator",
             "display_name": "Red Hat Service Interconnect",
-            "latest_version": "1.4.1-rh-1",
+            "latest_version": "1.4.2-rh-2",
             "latest_channel": "alpha",
-            "disconnected_supported": false,
+            "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/skupperproject/skupper-operator",
@@ -894,7 +894,7 @@
         {
             "package_name": "topology-aware-lifecycle-manager",
             "display_name": "Topology Aware Lifecycle Manager",
-            "latest_version": "4.12.4",
+            "latest_version": "4.12.5",
             "latest_channel": "4.12",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -916,7 +916,7 @@
         {
             "package_name": "redhat-oadp-operator",
             "display_name": "OADP Operator",
-            "latest_version": "1.2.0",
+            "latest_version": "1.2.1",
             "latest_channel": "stable-1.2",
             "disconnected_supported": true,
             "fips_supported": false,
