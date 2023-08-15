@@ -861,7 +861,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2023-08-13",
+            "latest_version": "3.0.0-nightly-2023-08-14",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1499,7 +1499,7 @@
         {
             "package_name": "sonataflow-operator",
             "display_name": "SonataFlow Operator",
-            "latest_version": "1.40.0",
+            "latest_version": "1.40.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1528,6 +1528,17 @@
             "capabilities": "Deep Insights",
             "repository": "https://github.com/mariadb-operator/mariadb-operator",
             "documentation_url": ""
+        },
+        {
+            "package_name": "move2kube-operator",
+            "display_name": "Konveyor Move2Kube",
+            "latest_version": "0.3.8",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/konveyor/move2kube-operator",
+            "documentation_url": "https://move2kube.konveyor.io/"
         },
         {
             "package_name": "ack-prometheusservice-controller",
@@ -1840,8 +1851,8 @@
         {
             "package_name": "observability-operator",
             "display_name": "Observability Operator",
-            "latest_version": "0.0.22",
-            "latest_channel": "development",
+            "latest_version": "0.0.25",
+            "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1972,7 +1983,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "0.22.3",
+            "latest_version": "0.22.4",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
