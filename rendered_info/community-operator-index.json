@@ -113,8 +113,8 @@
         {
             "package_name": "forklift-operator",
             "display_name": "Forklift Operator",
-            "latest_version": "2.4.2",
-            "latest_channel": "stable-v2.4",
+            "latest_version": "2.5.0",
+            "latest_channel": "stable-v2.5",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -861,7 +861,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2023-08-15",
+            "latest_version": "3.0.0-nightly-2023-08-16",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1235,7 +1235,7 @@
         {
             "package_name": "tempo-operator",
             "display_name": "Community Tempo Operator",
-            "latest_version": "0.3.0",
+            "latest_version": "0.4.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1895,7 +1895,7 @@
         {
             "package_name": "vault-config-operator",
             "display_name": "Vault Config Operator",
-            "latest_version": "0.8.18",
+            "latest_version": "0.8.19",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -2038,7 +2038,7 @@
         {
             "package_name": "argocd-operator",
             "display_name": "Argo CD",
-            "latest_version": "0.5.0",
+            "latest_version": "0.7.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

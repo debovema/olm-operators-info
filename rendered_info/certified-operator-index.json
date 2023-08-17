@@ -1409,17 +1409,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "hazelcast-enterprise-certified",
-            "display_name": "Hazelcast Enterprise Operator",
-            "latest_version": "0.3.8",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/hazelcast/hazelcast-operator",
-            "documentation_url": ""
-        },
-        {
             "package_name": "dynatrace-operator",
             "display_name": "Dynatrace Operator",
             "latest_version": "0.12.1",
