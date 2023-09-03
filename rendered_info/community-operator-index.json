@@ -872,7 +872,7 @@
         {
             "package_name": "edp-keycloak-operator",
             "display_name": "EDP Keycloak Operator",
-            "latest_version": "1.16.0",
+            "latest_version": "1.17.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
