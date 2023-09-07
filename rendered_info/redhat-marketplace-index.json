@@ -124,7 +124,7 @@
         {
             "package_name": "minio-operator-rhmp",
             "display_name": "Minio Operator Rhmp",
-            "latest_version": "5.0.7",
+            "latest_version": "5.0.8",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -218,6 +218,17 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/turbonomic/kubeturbo/tree/master/deploy/kubeturbo-operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "sumologic-kubernetes-collection-helm-operator-rhmp",
+            "display_name": "Sumo Logic Kubernetes Collection Helm Operator",
+            "latest_version": "2.19.1-0",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/SumoLogic/sumologic-kubernetes-collection-helm-operator.git",
             "documentation_url": ""
         },
         {

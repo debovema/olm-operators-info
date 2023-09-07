@@ -234,8 +234,8 @@
         {
             "package_name": "couchbase-enterprise-certified",
             "display_name": "Couchbase Operator",
-            "latest_version": "2.4.2-1",
-            "latest_channel": "2.4.2",
+            "latest_version": "2.5.0-1",
+            "latest_channel": "2.5.0",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Auto Pilot",
@@ -485,6 +485,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "sumologic-kubernetes-collection-helm-operator",
+            "display_name": "Sumo Logic Kubernetes Collection Helm Operator",
+            "latest_version": "2.19.1-0",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/SumoLogic/sumologic-kubernetes-collection-helm-operator.git",
+            "documentation_url": ""
+        },
+        {
             "package_name": "infrastructure-asset-orchestrator-certified",
             "display_name": "Infrastructure Asset Orchestrator",
             "latest_version": "1.0.2",
@@ -520,7 +531,7 @@
         {
             "package_name": "minio-operator",
             "display_name": "Minio Operator",
-            "latest_version": "5.0.7",
+            "latest_version": "5.0.8",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -707,8 +718,8 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.10.0-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.10.0",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1455,8 +1466,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.10.0-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.10.0",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
