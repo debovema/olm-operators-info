@@ -388,7 +388,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2023-09-17",
+            "latest_version": "3.0.0-nightly-2023-09-18",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -498,7 +498,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.10.0-nightly.20230916",
+            "latest_version": "3.10.0-nightly.20230918",
             "latest_channel": "candidate-3.10",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -751,7 +751,7 @@
         {
             "package_name": "patterns-operator",
             "display_name": "Validated Patterns Operator",
-            "latest_version": "0.0.23",
+            "latest_version": "0.0.24",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1268,7 +1268,7 @@
         {
             "package_name": "bookkeeper-operator",
             "display_name": "BookKeeper Operator",
-            "latest_version": "0.17.0",
+            "latest_version": "0.17.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1730,7 +1730,7 @@
         {
             "package_name": "ack-pipes-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Pipes",
-            "latest_version": "1.0.1",
+            "latest_version": "1.0.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2269,7 +2269,7 @@
         {
             "package_name": "zookeeper-operator",
             "display_name": "ZooKeeper Operator",
-            "latest_version": "0.17.0",
+            "latest_version": "0.17.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2280,7 +2280,7 @@
         {
             "package_name": "prometheus-exporter-operator",
             "display_name": "Prometheus Exporter Operator",
-            "latest_version": "0.3.4",
+            "latest_version": "0.7.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2319,17 +2319,6 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/medik8s/machine-deletion-remediation",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "falcon-operator",
-            "display_name": "CrowdStrike Falcon Platform - Operator",
-            "latest_version": "0.5.5",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/CrowdStrike/falcon-operator",
             "documentation_url": ""
         },
         {
@@ -2467,8 +2456,8 @@
         {
             "package_name": "stolostron-engine",
             "display_name": "Stolostron Engine",
-            "latest_version": "0.2.0",
-            "latest_channel": "community-0.2",
+            "latest_version": "0.1.4",
+            "latest_channel": "community-0.1",
             "disconnected_supported": true,
             "fips_supported": true,
             "capabilities": "Seamless Upgrades",
@@ -2507,6 +2496,17 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/Kuadrant/authorino-operator",
             "documentation_url": ""
+        },
+        {
+            "package_name": "stolostron",
+            "display_name": "Stolostron",
+            "latest_version": "0.2.1",
+            "latest_channel": "community-0.2",
+            "disconnected_supported": true,
+            "fips_supported": true,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/stolostron/stolostron",
+            "documentation_url": "https://github.com/stolostron/stolostron"
         },
         {
             "package_name": "ipfs-operator",
