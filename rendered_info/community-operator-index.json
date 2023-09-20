@@ -498,7 +498,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.10.0-nightly.20230918",
+            "latest_version": "3.10.0-nightly.20230919",
             "latest_channel": "candidate-3.10",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -916,12 +916,12 @@
         {
             "package_name": "pubsubplus-eventbroker-operator",
             "display_name": "Solace PubSub+ Event Broker Operator",
-            "latest_version": "1.0.0",
+            "latest_version": "1.0.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/SolaceProducts/pubsubplus-kubernetes-operator",
+            "repository": "https://github.com/SolaceProducts/pubsubplus-kubernetes-quickstart",
             "documentation_url": ""
         },
         {
@@ -2319,6 +2319,17 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/medik8s/machine-deletion-remediation",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "falcon-operator",
+            "display_name": "CrowdStrike Falcon Platform - Operator",
+            "latest_version": "0.8.1",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/CrowdStrike/falcon-operator",
             "documentation_url": ""
         },
         {
