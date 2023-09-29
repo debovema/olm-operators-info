@@ -190,7 +190,7 @@
         {
             "package_name": "nginx-ingress-operator",
             "display_name": "Nginx Ingress Operator",
-            "latest_version": "1.5.2",
+            "latest_version": "2.0.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -575,8 +575,8 @@
         {
             "package_name": "infoscale-dr-manager",
             "display_name": "InfoScale\u2122 DR Manager",
-            "latest_version": "8.0.100",
-            "latest_channel": "stable",
+            "latest_version": "8.0.220",
+            "latest_channel": "8.0.200x",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -927,8 +927,8 @@
         {
             "package_name": "infoscale-sds-operator",
             "display_name": "InfoScale\u2122 SDS Operator",
-            "latest_version": "8.0.210",
-            "latest_channel": "stable",
+            "latest_version": "8.0.220",
+            "latest_channel": "8.0.200x",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -1851,8 +1851,8 @@
         {
             "package_name": "infoscale-licensing-operator",
             "display_name": "InfoScale\u2122 Licensing Operator",
-            "latest_version": "8.0.110",
-            "latest_channel": "stable",
+            "latest_version": "8.0.220",
+            "latest_channel": "8.0.200x",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",

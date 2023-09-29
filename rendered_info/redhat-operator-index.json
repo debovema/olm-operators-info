@@ -58,7 +58,7 @@
         {
             "package_name": "datagrid",
             "display_name": "Data Grid",
-            "latest_version": "8.4.7",
+            "latest_version": "8.4.8",
             "latest_channel": "8.4.x",
             "disconnected_supported": true,
             "fips_supported": true,
