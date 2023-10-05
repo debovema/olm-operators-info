@@ -102,7 +102,7 @@
         {
             "package_name": "sriov-network-operator",
             "display_name": "SR-IOV Network Operator",
-            "latest_version": "4.12.0-202309181625",
+            "latest_version": "4.12.0-202309261425",
             "latest_channel": "4.12",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -476,7 +476,7 @@
         {
             "package_name": "advanced-cluster-management",
             "display_name": "Advanced Cluster Management for Kubernetes",
-            "latest_version": "2.8.1",
+            "latest_version": "2.8.2",
             "latest_channel": "release-2.8",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -542,7 +542,7 @@
         {
             "package_name": "bare-metal-event-relay",
             "display_name": "Bare Metal Event Relay",
-            "latest_version": "4.12.4",
+            "latest_version": "4.12.5",
             "latest_channel": "4.12",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -564,7 +564,7 @@
         {
             "package_name": "topology-aware-lifecycle-manager",
             "display_name": "Topology Aware Lifecycle Manager",
-            "latest_version": "4.12.5",
+            "latest_version": "4.12.6",
             "latest_channel": "4.12",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -883,7 +883,7 @@
         {
             "package_name": "kubernetes-nmstate-operator",
             "display_name": "Kubernetes NMState Operator",
-            "latest_version": "4.12.0-202309181625",
+            "latest_version": "4.12.0-202309270825",
             "latest_channel": "4.12",
             "disconnected_supported": true,
             "fips_supported": false,
