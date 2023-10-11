@@ -146,7 +146,7 @@
         {
             "package_name": "konveyor-operator",
             "display_name": "Konveyor Operator",
-            "latest_version": "0.3.0-alpha.3",
+            "latest_version": "0.3.0-alpha.6",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -421,7 +421,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.10.0-nightly.20231009",
+            "latest_version": "3.10.0-nightly.20231010",
             "latest_channel": "candidate-3.10",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -514,7 +514,7 @@
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
-            "repository": "https://github.com/open-cluster-management-io/registration-operator",
+            "repository": "https://github.com/open-cluster-management-io/ocm",
             "documentation_url": ""
         },
         {
@@ -591,7 +591,7 @@
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
-            "repository": "https://github.com/open-cluster-management-io/registration-operator",
+            "repository": "https://github.com/open-cluster-management-io/ocm",
             "documentation_url": ""
         },
         {
@@ -1158,7 +1158,7 @@
         {
             "package_name": "opendatahub-operator",
             "display_name": "Open Data Hub Operator",
-            "latest_version": "2.2.0",
+            "latest_version": "2.2.1",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1323,7 +1323,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2023-10-06",
+            "latest_version": "3.0.0-nightly-2023-10-10",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1554,7 +1554,7 @@
         {
             "package_name": "opentelemetry-operator",
             "display_name": "Community OpenTelemetry Operator",
-            "latest_version": "0.85.0",
+            "latest_version": "0.86.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1928,8 +1928,8 @@
         {
             "package_name": "move2kube-operator",
             "display_name": "Konveyor Move2Kube",
-            "latest_version": "0.3.10",
-            "latest_channel": "alpha",
+            "latest_version": "0.3.11-rc.0",
+            "latest_channel": "prerelease",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -2016,7 +2016,7 @@
         {
             "package_name": "apicurio-registry",
             "display_name": "Apicurio Registry Operator",
-            "latest_version": "1.0.0-v2.0.0.final",
+            "latest_version": "1.1.0-v2.4.12.final",
             "latest_channel": "2.x",
             "disconnected_supported": false,
             "fips_supported": false,
