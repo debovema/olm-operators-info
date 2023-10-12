@@ -333,7 +333,7 @@
         {
             "package_name": "metallb-operator",
             "display_name": "MetalLB Operator",
-            "latest_version": "4.12.0-202309181625",
+            "latest_version": "4.12.0-202310021101",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -883,7 +883,7 @@
         {
             "package_name": "kubernetes-nmstate-operator",
             "display_name": "Kubernetes NMState Operator",
-            "latest_version": "4.12.0-202309270825",
+            "latest_version": "4.12.0-202309281630",
             "latest_channel": "4.12",
             "disconnected_supported": true,
             "fips_supported": false,

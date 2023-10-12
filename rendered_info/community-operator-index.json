@@ -157,7 +157,7 @@
         {
             "package_name": "mariadb-operator",
             "display_name": "MariaDB Operator",
-            "latest_version": "0.20.0",
+            "latest_version": "0.21.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -421,7 +421,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.10.0-nightly.20231010",
+            "latest_version": "3.10.0-nightly.20231011",
             "latest_channel": "candidate-3.10",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -575,7 +575,7 @@
         {
             "package_name": "ndmspc-operator",
             "display_name": "NdmSpc operator",
-            "latest_version": "0.3.0",
+            "latest_version": "0.3.3",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1070,7 +1070,7 @@
         {
             "package_name": "ack-dynamodb-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon DynamoDB",
-            "latest_version": "1.2.1",
+            "latest_version": "1.2.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2335,7 +2335,7 @@
         {
             "package_name": "kepler-operator",
             "display_name": "Kepler",
-            "latest_version": "0.8.1",
+            "latest_version": "0.8.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
