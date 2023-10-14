@@ -146,8 +146,8 @@
         {
             "package_name": "konveyor-operator",
             "display_name": "Konveyor Operator",
-            "latest_version": "0.3.0-alpha.6",
-            "latest_channel": "alpha",
+            "latest_version": "0.3.0-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -157,7 +157,7 @@
         {
             "package_name": "mariadb-operator",
             "display_name": "MariaDB Operator",
-            "latest_version": "0.21.0",
+            "latest_version": "0.22.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -201,7 +201,7 @@
         {
             "package_name": "dapr-kubernetes-operator",
             "display_name": "Dapr Control Plane Operator",
-            "latest_version": "0.0.4",
+            "latest_version": "0.0.5",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -421,7 +421,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.10.0-nightly.20231012",
+            "latest_version": "3.10.0-nightly.20231013",
             "latest_channel": "candidate-3.10",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -575,7 +575,7 @@
         {
             "package_name": "ndmspc-operator",
             "display_name": "NdmSpc operator",
-            "latest_version": "0.3.3",
+            "latest_version": "0.4.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -619,7 +619,7 @@
         {
             "package_name": "forklift-operator",
             "display_name": "Forklift Operator",
-            "latest_version": "2.5.1",
+            "latest_version": "2.5.2",
             "latest_channel": "stable-v2.5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2071,7 +2071,7 @@
         {
             "package_name": "percona-server-mongodb-operator",
             "display_name": "Percona Distribution for MongoDB Operator",
-            "latest_version": "1.14.0",
+            "latest_version": "1.15.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2335,7 +2335,7 @@
         {
             "package_name": "kepler-operator",
             "display_name": "Kepler",
-            "latest_version": "0.8.2",
+            "latest_version": "0.9.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
