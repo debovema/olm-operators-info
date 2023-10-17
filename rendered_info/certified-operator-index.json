@@ -344,7 +344,7 @@
         {
             "package_name": "sosivio",
             "display_name": "Sosivio | Predictive Troubleshooting for Kubernetes",
-            "latest_version": "1.7.1-130-ubi",
+            "latest_version": "1.8.0-137-ubi",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1345,7 +1345,7 @@
         {
             "package_name": "dynatrace-operator",
             "display_name": "Dynatrace Operator",
-            "latest_version": "0.13.0",
+            "latest_version": "0.14.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1774,7 +1774,7 @@
         {
             "package_name": "minio-operator",
             "display_name": "Minio Operator",
-            "latest_version": "5.0.9",
+            "latest_version": "5.0.10",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

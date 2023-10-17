@@ -278,7 +278,7 @@
         {
             "package_name": "zookeeper-operator",
             "display_name": "ZooKeeper Operator",
-            "latest_version": "0.17.1",
+            "latest_version": "0.17.5",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -377,7 +377,7 @@
         {
             "package_name": "sosivio",
             "display_name": "Sosivio | Predictive Troubleshooting for Kubernetes",
-            "latest_version": "1.7.1-130",
+            "latest_version": "1.8.0-137",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -828,7 +828,7 @@
         {
             "package_name": "bookkeeper-operator",
             "display_name": "BookKeeper Operator",
-            "latest_version": "0.17.1",
+            "latest_version": "0.17.5",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1532,7 +1532,7 @@
         {
             "package_name": "pulsar-operator",
             "display_name": "Pulsar Operator",
-            "latest_version": "0.17.1",
+            "latest_version": "0.17.5",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1697,7 +1697,7 @@
         {
             "package_name": "dynatrace-operator",
             "display_name": "Dynatrace Operator",
-            "latest_version": "0.13.0",
+            "latest_version": "0.14.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1728,6 +1728,17 @@
             "documentation_url": "https://aws-controllers-k8s.github.io/community/"
         },
         {
+            "package_name": "debezium-operator",
+            "display_name": "Debezium Operator",
+            "latest_version": "2.4.0",
+            "latest_channel": "debezium-2.4.x",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/debezium/debezium-operator",
+            "documentation_url": "https://debezium.io/documentation/reference/stable/"
+        },
+        {
             "package_name": "dell-csi-operator",
             "display_name": "Dell CSI Operator",
             "latest_version": "1.12.0",
@@ -1752,7 +1763,7 @@
         {
             "package_name": "awx-operator",
             "display_name": "AWX",
-            "latest_version": "2.5.3",
+            "latest_version": "2.6.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1906,7 +1917,7 @@
         {
             "package_name": "aerospike-kubernetes-operator",
             "display_name": "Aerospike Kubernetes Operator",
-            "latest_version": "3.0.0",
+            "latest_version": "3.1.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2192,7 +2203,7 @@
         {
             "package_name": "sap-data-intelligence-observer-operator",
             "display_name": "SAP Data Intelligence 3 - Observer Operator",
-            "latest_version": "1.0.3",
+            "latest_version": "1.0.4",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
