@@ -245,7 +245,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2023-10-18",
+            "latest_version": "3.0.0-nightly-2023-10-19",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -509,7 +509,7 @@
         {
             "package_name": "konveyor-operator",
             "display_name": "Konveyor Operator",
-            "latest_version": "0.3.0-beta.1",
+            "latest_version": "0.3.0-beta.1.1",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -980,17 +980,6 @@
             "documentation_url": "https://docs.apimatic.io/"
         },
         {
-            "package_name": "bpfd-operator",
-            "display_name": "Bpfd Operator",
-            "latest_version": "0.2.1",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/bpfd-dev/bpfd",
-            "documentation_url": ""
-        },
-        {
             "package_name": "ocm-operator",
             "display_name": "OpenShift Cluster Manager Operator",
             "latest_version": "0.1.0",
@@ -1279,7 +1268,7 @@
         {
             "package_name": "zookeeper-operator",
             "display_name": "ZooKeeper Operator",
-            "latest_version": "0.17.5",
+            "latest_version": "0.17.7",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1961,7 +1950,7 @@
         {
             "package_name": "patterns-operator",
             "display_name": "Validated Patterns Operator",
-            "latest_version": "0.0.25",
+            "latest_version": "0.0.26",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2313,7 +2302,7 @@
         {
             "package_name": "eclipse-che",
             "display_name": "Eclipse Che",
-            "latest_version": "7.75.0",
+            "latest_version": "7.76.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -2456,7 +2445,7 @@
         {
             "package_name": "pulsar-operator",
             "display_name": "Pulsar Operator",
-            "latest_version": "0.17.5",
+            "latest_version": "0.17.7",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2511,7 +2500,7 @@
         {
             "package_name": "bookkeeper-operator",
             "display_name": "BookKeeper Operator",
-            "latest_version": "0.17.5",
+            "latest_version": "0.17.7",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
