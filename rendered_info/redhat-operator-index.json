@@ -157,7 +157,7 @@
         {
             "package_name": "openshift-gitops-operator",
             "display_name": "Red Hat OpenShift GitOps",
-            "latest_version": "1.10.0",
+            "latest_version": "1.10.1",
             "latest_channel": "gitops-1.10",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -212,7 +212,7 @@
         {
             "package_name": "skupper-operator",
             "display_name": "Red Hat Service Interconnect",
-            "latest_version": "1.4.2-rh-2",
+            "latest_version": "1.4.3-rh-6",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -289,8 +289,8 @@
         {
             "package_name": "ansible-automation-platform-operator",
             "display_name": "Ansible Automation Platform",
-            "latest_version": "2.4.0-0.1697506179",
-            "latest_channel": "stable-2.4-cluster-scoped",
+            "latest_version": "2.4.0-0.1698276502",
+            "latest_channel": "stable-2.4",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
@@ -322,7 +322,7 @@
         {
             "package_name": "ansible-cloud-addons-operator",
             "display_name": "Ansible Cloud Addons",
-            "latest_version": "2.4.0-0.1697505549",
+            "latest_version": "2.4.0-0.1698273755",
             "latest_channel": "stable-2.4-cluster-scoped",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -817,7 +817,7 @@
         {
             "package_name": "rhsso-operator",
             "display_name": "Red Hat Single Sign-On Operator",
-            "latest_version": "7.6.5-opr-003",
+            "latest_version": "7.6.5-opr-004",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -960,7 +960,7 @@
         {
             "package_name": "aws-load-balancer-operator",
             "display_name": "AWS Load Balancer Operator",
-            "latest_version": "1.0.0",
+            "latest_version": "1.1.0",
             "latest_channel": "stable-v1",
             "disconnected_supported": false,
             "fips_supported": false,
