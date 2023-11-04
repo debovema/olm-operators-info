@@ -1288,6 +1288,17 @@
             "documentation_url": "https://strimzi.io/documentation/"
         },
         {
+            "package_name": "sn-operator",
+            "display_name": "StreamNative Operator",
+            "latest_version": "0.3.0-rc.5",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Full Lifecycle",
+            "repository": null,
+            "documentation_url": "https://docs.streamnative.io"
+        },
+        {
             "package_name": "falcon-operator",
             "display_name": "CrowdStrike Falcon Platform - Operator",
             "latest_version": "0.8.1",
@@ -1367,7 +1378,7 @@
         {
             "package_name": "grafana-operator",
             "display_name": "Grafana Operator",
-            "latest_version": "5.4.1",
+            "latest_version": "5.4.2",
             "latest_channel": "v5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2445,7 +2456,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2023-11-02",
+            "latest_version": "3.0.0-nightly-2023-11-03",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2456,7 +2467,7 @@
         {
             "package_name": "konveyor-operator",
             "display_name": "Konveyor Operator",
-            "latest_version": "0.3.0-beta.1.2",
+            "latest_version": "0.3.0-beta.2",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,

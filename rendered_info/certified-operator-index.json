@@ -848,6 +848,17 @@
             "documentation_url": "https://dev.entando.org/v6.3/docs/"
         },
         {
+            "package_name": "sn-operator",
+            "display_name": "StreamNative Operator",
+            "latest_version": "0.3.0-rc.5",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Full Lifecycle",
+            "repository": null,
+            "documentation_url": "https://docs.streamnative.io"
+        },
+        {
             "package_name": "pmem-csi-operator-os",
             "display_name": "Operator for PMEM-CSI driver",
             "latest_version": "1.0.0",
