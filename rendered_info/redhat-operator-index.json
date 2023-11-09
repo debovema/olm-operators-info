@@ -3,7 +3,7 @@
         {
             "package_name": "kubernetes-nmstate-operator",
             "display_name": "Kubernetes NMState Operator",
-            "latest_version": "4.12.0-202310201022",
+            "latest_version": "4.12.0-202310311002",
             "latest_channel": "4.12",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -36,7 +36,7 @@
         {
             "package_name": "metallb-operator",
             "display_name": "MetalLB Operator",
-            "latest_version": "4.12.0-202310241244",
+            "latest_version": "4.12.0-202310311227",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -58,7 +58,7 @@
         {
             "package_name": "local-storage-operator",
             "display_name": "Local Storage",
-            "latest_version": "4.12.0-202310241244",
+            "latest_version": "4.12.0-202310271701",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -344,7 +344,7 @@
         {
             "package_name": "gcp-filestore-csi-driver-operator",
             "display_name": "GCP Filestore CSI Driver Operator",
-            "latest_version": "4.12.0-202310241244",
+            "latest_version": "4.12.0-202310300829",
             "latest_channel": "preview",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -443,7 +443,7 @@
         {
             "package_name": "file-integrity-operator",
             "display_name": "File Integrity Operator",
-            "latest_version": "1.3.2",
+            "latest_version": "1.3.3",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -564,7 +564,7 @@
         {
             "package_name": "ansible-cloud-addons-operator",
             "display_name": "Ansible Cloud Addons",
-            "latest_version": "2.4.0-0.1698273755",
+            "latest_version": "2.4.0-0.1698895703",
             "latest_channel": "stable-2.4-cluster-scoped",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -641,7 +641,7 @@
         {
             "package_name": "netobserv-operator",
             "display_name": "Network Observability",
-            "latest_version": "1.4.1",
+            "latest_version": "1.4.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -652,7 +652,7 @@
         {
             "package_name": "node-healthcheck-operator",
             "display_name": "Node Health Check Operator",
-            "latest_version": "0.6.0",
+            "latest_version": "0.6.1",
             "latest_channel": "4.14-eus",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -773,7 +773,7 @@
         {
             "package_name": "aws-efs-csi-driver-operator",
             "display_name": "AWS EFS CSI Driver Operator",
-            "latest_version": "4.12.0-202310250425",
+            "latest_version": "4.12.0-202310260925",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1092,7 +1092,7 @@
         {
             "package_name": "ansible-automation-platform-operator",
             "display_name": "Ansible Automation Platform",
-            "latest_version": "2.4.0-0.1698276827",
+            "latest_version": "2.4.0-0.1698896316",
             "latest_channel": "stable-2.4-cluster-scoped",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1103,7 +1103,7 @@
         {
             "package_name": "machine-deletion-remediation",
             "display_name": "Machine Deletion Remediation operator",
-            "latest_version": "0.2.0",
+            "latest_version": "0.2.1",
             "latest_channel": "4.14-eus",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1158,7 +1158,7 @@
         {
             "package_name": "fence-agents-remediation",
             "display_name": "Fence Agents Remediation Operator",
-            "latest_version": "0.2.0",
+            "latest_version": "0.2.1",
             "latest_channel": "4.14-eus",
             "disconnected_supported": true,
             "fips_supported": false,
