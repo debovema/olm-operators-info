@@ -47,8 +47,8 @@
         {
             "package_name": "rhacs-operator",
             "display_name": "Advanced Cluster Security for Kubernetes",
-            "latest_version": "4.2.2",
-            "latest_channel": "rhacs-4.2",
+            "latest_version": "4.3.0",
+            "latest_channel": "rhacs-4.3",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -135,7 +135,7 @@
         {
             "package_name": "servicemeshoperator",
             "display_name": "Red Hat OpenShift Service Mesh",
-            "latest_version": "2.4.4",
+            "latest_version": "2.4.5",
             "latest_channel": "1.0",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -199,6 +199,17 @@
             "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_openstack_platform/16.2/html/service_telemetry_framework_1.5/index"
         },
         {
+            "package_name": "cluster-observability-operator",
+            "display_name": "Cluster Observability Operator",
+            "latest_version": "0.0.26",
+            "latest_channel": "development",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/rhobs/observability-operator",
+            "documentation_url": ""
+        },
+        {
             "package_name": "lvms-operator",
             "display_name": "LVM Storage",
             "latest_version": "4.12.1",
@@ -212,7 +223,7 @@
         {
             "package_name": "fuse-console",
             "display_name": "Red Hat Integration - Fuse Console",
-            "latest_version": "7.12.0",
+            "latest_version": "7.12.1",
             "latest_channel": "7.12.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -223,7 +234,7 @@
         {
             "package_name": "fuse-apicurito",
             "display_name": "Red Hat Integration - API Designer",
-            "latest_version": "7.12.0",
+            "latest_version": "7.12.1",
             "latest_channel": "fuse-apicurito-7.12.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -256,7 +267,7 @@
         {
             "package_name": "kernel-module-management-hub",
             "display_name": "Kernel Module Management (Hub)",
-            "latest_version": "1.1.1",
+            "latest_version": "1.1.2",
             "latest_channel": "release-1.1",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -432,7 +443,7 @@
         {
             "package_name": "container-security-operator",
             "display_name": "Red Hat Quay Container Security Operator",
-            "latest_version": "3.9.4",
+            "latest_version": "3.9.5",
             "latest_channel": "stable-3.9",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -663,7 +674,7 @@
         {
             "package_name": "kiali-ossm",
             "display_name": "Kiali Operator",
-            "latest_version": "1.65.10",
+            "latest_version": "1.65.11",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -729,7 +740,7 @@
         {
             "package_name": "quay-operator",
             "display_name": "Red Hat Quay",
-            "latest_version": "3.9.4",
+            "latest_version": "3.9.5",
             "latest_channel": "stable-3.9",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -784,7 +795,7 @@
         {
             "package_name": "fuse-online",
             "display_name": "Red Hat Integration - Fuse Online",
-            "latest_version": "7.12.0",
+            "latest_version": "7.12.1",
             "latest_channel": "7.12.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -806,7 +817,7 @@
         {
             "package_name": "external-dns-operator",
             "display_name": "ExternalDNS Operator",
-            "latest_version": "1.1.0",
+            "latest_version": "1.2.0",
             "latest_channel": "stable-v1",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -879,6 +890,17 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/k8snetworkplumbingwg/sriov-network-operator",
             "documentation_url": ""
+        },
+        {
+            "package_name": "rhbk-operator",
+            "display_name": "Keycloak Operator",
+            "latest_version": "22.0.6-opr.1",
+            "latest_channel": "stable-v22",
+            "disconnected_supported": true,
+            "fips_supported": false,
+            "capabilities": "Deep Insights",
+            "repository": "https://github.com/keycloak/keycloak",
+            "documentation_url": "https://www.keycloak.org/guides#operator"
         },
         {
             "package_name": "rhods-prometheus-operator",
@@ -960,7 +982,7 @@
         {
             "package_name": "kernel-module-management",
             "display_name": "Kernel Module Management",
-            "latest_version": "1.1.1",
+            "latest_version": "1.1.2",
             "latest_channel": "release-1.1",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -971,7 +993,7 @@
         {
             "package_name": "mtc-operator",
             "display_name": "Migration Toolkit for Containers Operator",
-            "latest_version": "1.8.1",
+            "latest_version": "1.8.2",
             "latest_channel": "release-v1.8",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1125,7 +1147,7 @@
         {
             "package_name": "openshift-cert-manager-operator",
             "display_name": "cert-manager Operator for Red Hat OpenShift",
-            "latest_version": "1.12.0",
+            "latest_version": "1.12.1",
             "latest_channel": "stable-v1",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1147,7 +1169,7 @@
         {
             "package_name": "quay-bridge-operator",
             "display_name": "Red Hat Quay Bridge Operator",
-            "latest_version": "3.9.4",
+            "latest_version": "3.9.5",
             "latest_channel": "stable-3.9",
             "disconnected_supported": true,
             "fips_supported": false,
