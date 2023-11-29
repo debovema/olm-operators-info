@@ -111,17 +111,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "memory-machine-operator",
-            "display_name": "Memory Machine Operator",
-            "latest_version": "0.0.10",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/MemVerge/memory-machine-operator",
-            "documentation_url": ""
-        },
-        {
             "package_name": "cilium-enterprise",
             "display_name": "Cilium Enterprise",
             "latest_version": "1.14.4-x1851dff",
@@ -272,6 +261,17 @@
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
+            "package_name": "stackable-listener-operator",
+            "display_name": "Stackable Listener Operator",
+            "latest_version": "23.11.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": null,
             "repository": null,
             "documentation_url": ""
         },
@@ -727,6 +727,17 @@
             "documentation_url": "https://docs.datadoghq.com/agent/kubernetes/"
         },
         {
+            "package_name": "stackable-secret-operator",
+            "display_name": "Stackable Secret Operator",
+            "latest_version": "23.11.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": null,
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "neuvector-certified-operator",
             "display_name": "NeuVector Operator",
             "latest_version": "1.4.2",
@@ -740,7 +751,7 @@
         {
             "package_name": "crunchy-postgres-operator",
             "display_name": "Crunchy Postgres for Kubernetes",
-            "latest_version": "5.4.3",
+            "latest_version": "5.4.4",
             "latest_channel": "v5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1684,6 +1695,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "stackable-hdfs-operator",
+            "display_name": "Stackable Operator for Apache HDFS",
+            "latest_version": "23.11.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": null,
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "percona-server-mongodb-operator-certified",
             "display_name": "Percona Distribution for MongoDB Operator",
             "latest_version": "1.15.0",
@@ -1730,7 +1752,7 @@
         {
             "package_name": "stackable-commons-operator",
             "display_name": "Stackable Commons Operator",
-            "latest_version": "23.1.0",
+            "latest_version": "23.11.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
