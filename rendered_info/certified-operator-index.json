@@ -78,6 +78,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "stackable-kafka-operator",
+            "display_name": "Stackable Operator for Apache Kafka",
+            "latest_version": "23.11.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": null,
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "conjur-follower-operator",
             "display_name": "Conjur Enterprise Follower Operator",
             "latest_version": "2.3.0",
@@ -212,7 +223,7 @@
         {
             "package_name": "appdynamics-operator",
             "display_name": "AppDynamics Operator for Kubernetes",
-            "latest_version": "23.9.0",
+            "latest_version": "23.11.0-624",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -311,8 +322,8 @@
         {
             "package_name": "nvidia-network-operator",
             "display_name": "NVIDIA Network Operator",
-            "latest_version": "23.7.0",
-            "latest_channel": "v23.7.0",
+            "latest_version": "23.10.0",
+            "latest_channel": "v23.10.0",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -595,6 +606,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "stackable-druid-operator",
+            "display_name": "Stackable Operator for Apache Druid",
+            "latest_version": "23.11.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": null,
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "instana-agent-operator",
             "display_name": "Instana Agent Operator",
             "latest_version": "2.0.17",
@@ -690,6 +712,28 @@
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
+            "package_name": "stackable-opa-operator",
+            "display_name": "Stackable Operator for Opa (Open Policy Agent)",
+            "latest_version": "23.11.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": null,
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
+            "package_name": "stackable-spark-operator",
+            "display_name": "Stackable Operator for Apache Spark",
+            "latest_version": "23.11.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": null,
             "repository": null,
             "documentation_url": ""
         },
@@ -1387,6 +1431,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "stackable-superset-operator",
+            "display_name": "Stackable Operator for Apache Superset",
+            "latest_version": "23.11.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": null,
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "eginnovations-operator",
             "display_name": "eG Innovations Universal Agent Operator",
             "latest_version": "0.0.6",
@@ -1439,6 +1494,17 @@
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
             "repository": "https://github.com/minio/operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "stackable-nifi-operator",
+            "display_name": "Stackable Operator for Apache Nifi",
+            "latest_version": "23.11.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": null,
+            "repository": null,
             "documentation_url": ""
         },
         {
@@ -1526,6 +1592,17 @@
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
+            "package_name": "stackable-airflow-operator",
+            "display_name": "Stackable Operator for Apache Airflow",
+            "latest_version": "23.11.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": null,
             "repository": null,
             "documentation_url": ""
         },
