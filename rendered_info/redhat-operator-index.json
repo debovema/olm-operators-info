@@ -14,7 +14,7 @@
         {
             "package_name": "nfd",
             "display_name": "Node Feature Discovery Operator",
-            "latest_version": "4.12.0-202311021630",
+            "latest_version": "4.12.0-202311220908",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -69,7 +69,7 @@
         {
             "package_name": "kubernetes-nmstate-operator",
             "display_name": "Kubernetes NMState Operator",
-            "latest_version": "4.12.0-202311021630",
+            "latest_version": "4.12.0-202311220908",
             "latest_channel": "4.12",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -124,7 +124,7 @@
         {
             "package_name": "cluster-kube-descheduler-operator",
             "display_name": "Kube Descheduler Operator",
-            "latest_version": "4.12.0-202311130807",
+            "latest_version": "4.12.0-202311220908",
             "latest_channel": "4.12",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -156,12 +156,12 @@
         },
         {
             "package_name": "opentelemetry-product",
-            "display_name": "Red Hat OpenShift distributed tracing data collection",
-            "latest_version": "0.81.1-5",
+            "display_name": "Red Hat build of OpenTelemetry",
+            "latest_version": "0.89.0-3",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
-            "capabilities": "Basic Install",
+            "capabilities": "Deep Insights",
             "repository": "github.com/open-telemetry/opentelemetry-operator",
             "documentation_url": ""
         },
@@ -179,7 +179,7 @@
         {
             "package_name": "mtr-operator",
             "display_name": "Migration Toolkit for Runtimes Operator",
-            "latest_version": "1.2.2",
+            "latest_version": "1.2.3",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -201,7 +201,7 @@
         {
             "package_name": "datagrid",
             "display_name": "Data Grid",
-            "latest_version": "8.4.11",
+            "latest_version": "8.4.12",
             "latest_channel": "8.4.x",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -278,7 +278,7 @@
         {
             "package_name": "gcp-filestore-csi-driver-operator",
             "display_name": "GCP Filestore CSI Driver Operator",
-            "latest_version": "4.12.0-202311021630",
+            "latest_version": "4.12.0-202311220908",
             "latest_channel": "preview",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -344,7 +344,7 @@
         {
             "package_name": "ptp-operator",
             "display_name": "PTP Operator",
-            "latest_version": "4.12.0-202311021630",
+            "latest_version": "4.12.0-202311222150",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -399,7 +399,7 @@
         {
             "package_name": "local-storage-operator",
             "display_name": "Local Storage",
-            "latest_version": "4.12.0-202311071130",
+            "latest_version": "4.12.0-202311220908",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -421,7 +421,7 @@
         {
             "package_name": "jaeger-product",
             "display_name": "Red Hat OpenShift distributed tracing platform",
-            "latest_version": "1.47.1-5",
+            "latest_version": "1.51.0-1",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -454,10 +454,10 @@
         {
             "package_name": "amq-streams",
             "display_name": "AMQ Streams",
-            "latest_version": "2.5.1-1",
-            "latest_channel": "amq-streams-2.5.x",
-            "disconnected_supported": true,
-            "fips_supported": true,
+            "latest_version": "2.6.0-0",
+            "latest_channel": "amq-streams-2.6.x",
+            "disconnected_supported": false,
+            "fips_supported": false,
             "capabilities": "Deep Insights",
             "repository": "https://github.com/strimzi/strimzi-kafka-operator",
             "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_amq_streams"
@@ -564,7 +564,7 @@
         {
             "package_name": "sriov-network-operator",
             "display_name": "SR-IOV Network Operator",
-            "latest_version": "4.12.0-202311101030",
+            "latest_version": "4.12.0-202311280331",
             "latest_channel": "4.12",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -586,7 +586,7 @@
         {
             "package_name": "dpu-network-operator",
             "display_name": "DPU Network Operator",
-            "latest_version": "4.12.0-202311021630",
+            "latest_version": "4.12.0-202311220908",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -641,7 +641,7 @@
         {
             "package_name": "clusterresourceoverride",
             "display_name": "ClusterResourceOverride Operator",
-            "latest_version": "4.12.0-202311072230",
+            "latest_version": "4.12.0-202311220908",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -652,7 +652,7 @@
         {
             "package_name": "metallb-operator",
             "display_name": "MetalLB Operator",
-            "latest_version": "4.12.0-202311021630",
+            "latest_version": "4.12.0-202311220908",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -729,7 +729,7 @@
         {
             "package_name": "ingress-node-firewall",
             "display_name": "Ingress Node Firewall Operator",
-            "latest_version": "4.12.0-202311021630",
+            "latest_version": "4.12.0-202311220908",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -795,7 +795,7 @@
         {
             "package_name": "cryostat-operator",
             "display_name": "Red Hat build of Cryostat",
-            "latest_version": "2.3.1",
+            "latest_version": "2.4.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -883,7 +883,7 @@
         {
             "package_name": "tempo-product",
             "display_name": "Tempo Operator",
-            "latest_version": "0.3.1-3",
+            "latest_version": "0.6.0-2",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1004,7 +1004,7 @@
         {
             "package_name": "vertical-pod-autoscaler",
             "display_name": "VerticalPodAutoscaler",
-            "latest_version": "4.12.0-202311021630",
+            "latest_version": "4.12.0-202311221849",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1092,7 +1092,7 @@
         {
             "package_name": "aws-efs-csi-driver-operator",
             "display_name": "AWS EFS CSI Driver Operator",
-            "latest_version": "4.12.0-202311021630",
+            "latest_version": "4.12.0-202311221849",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
