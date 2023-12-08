@@ -80,7 +80,7 @@
         {
             "package_name": "amq7-interconnect-operator",
             "display_name": "Red Hat Integration - AMQ Interconnect",
-            "latest_version": "1.10.17",
+            "latest_version": "1.10.18",
             "latest_channel": "1.10.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -707,8 +707,8 @@
         {
             "package_name": "openshift-gitops-operator",
             "display_name": "Red Hat OpenShift GitOps",
-            "latest_version": "1.10.1",
-            "latest_channel": "gitops-1.10",
+            "latest_version": "1.11.0",
+            "latest_channel": "gitops-1.11",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Deep Insights",
@@ -905,7 +905,7 @@
         {
             "package_name": "smart-gateway-operator",
             "display_name": "Smart Gateway Operator",
-            "latest_version": "5.0.1698402438",
+            "latest_version": "5.0.1701113940",
             "latest_channel": "stable-1.5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -927,13 +927,13 @@
         {
             "package_name": "service-telemetry-operator",
             "display_name": "Service Telemetry Operator",
-            "latest_version": "1.5.1698402438",
+            "latest_version": "1.5.1701113935",
             "latest_channel": "stable-1.5",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/infrawatch/service-telemetry-operator",
-            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_openstack_platform/16.2/html/service_telemetry_framework_1.5/index"
+            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_openstack_platform/17.1/html/service_telemetry_framework_1.5/index"
         },
         {
             "package_name": "jws-operator",
