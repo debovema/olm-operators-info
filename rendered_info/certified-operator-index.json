@@ -1004,9 +1004,9 @@
         {
             "package_name": "habana-ai-operator",
             "display_name": "Habana AI",
-            "latest_version": "1.12.1-10",
-            "latest_channel": "1.12.1-10",
-            "disconnected_supported": true,
+            "latest_version": "1.13.0-463",
+            "latest_channel": "1.13.0-463",
+            "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "http://github.com/HabanaAI/habana-ai-operator",
