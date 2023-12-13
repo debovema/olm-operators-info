@@ -201,7 +201,7 @@
         {
             "package_name": "k10-kasten-operator-term-rhmp",
             "display_name": "Kasten K10 (Enterprise - Term)",
-            "latest_version": "6.0.12",
+            "latest_version": "6.5.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -333,7 +333,7 @@
         {
             "package_name": "k10-kasten-operator-paygo-rhmp",
             "display_name": "Kasten K10 (Enterprise - PAYGO)",
-            "latest_version": "6.0.12",
+            "latest_version": "6.5.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -476,7 +476,7 @@
         {
             "package_name": "k10-kasten-operator-rhmp",
             "display_name": "Kasten K10 (Free)",
-            "latest_version": "6.0.12",
+            "latest_version": "6.5.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -527,17 +527,6 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/citrix/citrix-k8s-ingress-controller",
             "documentation_url": ""
-        },
-        {
-            "package_name": "sysdig-certified-rhmp",
-            "display_name": "Sysdig Agent Operator",
-            "latest_version": "1.15.37",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/sysdiglabs/sysdig-operator",
-            "documentation_url": "https://sysdigdocs.atlassian.net/wiki/spaces/Platform/overview"
         },
         {
             "package_name": "datadog-operator-certified-rhmp",
