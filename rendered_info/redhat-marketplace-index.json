@@ -135,7 +135,7 @@
         {
             "package_name": "redis-enterprise-operator-cert-rhmp",
             "display_name": "Redis Enterprise Operator",
-            "latest_version": "7.2.4-7.0",
+            "latest_version": "7.2.4-12.0",
             "latest_channel": "7.2.4",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -267,7 +267,7 @@
         {
             "package_name": "joget-dx8-operator-rhmp",
             "display_name": "Joget DX 8 Operator",
-            "latest_version": "0.0.4",
+            "latest_version": "0.0.5",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
