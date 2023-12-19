@@ -1081,7 +1081,7 @@
         {
             "package_name": "keycloak-operator",
             "display_name": "Keycloak Operator",
-            "latest_version": "23.0.2",
+            "latest_version": "23.0.3",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1488,7 +1488,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2023-12-17",
+            "latest_version": "3.0.0-nightly-2023-12-18",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1851,7 +1851,7 @@
         {
             "package_name": "jaeger",
             "display_name": "Community Jaeger Operator",
-            "latest_version": "1.51.0",
+            "latest_version": "1.52.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -2104,7 +2104,7 @@
         {
             "package_name": "kuadrant-operator",
             "display_name": "Kuadrant Operator",
-            "latest_version": "0.5.0",
+            "latest_version": "0.6.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2198,6 +2198,17 @@
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/SolaceProducts/pubsubplus-kubernetes-quickstart",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "operator-e2e",
+            "display_name": "operator-e2e",
+            "latest_version": "0.0.100",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
             "documentation_url": ""
         },
         {
@@ -2500,7 +2511,7 @@
         {
             "package_name": "debezium-operator",
             "display_name": "Debezium Operator",
-            "latest_version": "2.4.0",
+            "latest_version": "2.4.2",
             "latest_channel": "debezium-2.4.x",
             "disconnected_supported": false,
             "fips_supported": false,
