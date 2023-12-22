@@ -355,7 +355,7 @@
         {
             "package_name": "sosivio",
             "display_name": "Sosivio | Predictive Troubleshooting for Kubernetes",
-            "latest_version": "1.8.1-144-ubi",
+            "latest_version": "2.0.0-150-ubi",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -520,7 +520,7 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.10.7",
+            "latest_version": "8.11.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -762,8 +762,8 @@
         {
             "package_name": "tenant-operator",
             "display_name": "Multi Tenant Operator",
-            "latest_version": "0.10.0",
-            "latest_channel": "0.10.0",
+            "latest_version": "0.10.5",
+            "latest_channel": "0.10.5",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -1114,7 +1114,7 @@
         {
             "package_name": "mongodb-enterprise",
             "display_name": "MongoDB Enterprise Operator",
-            "latest_version": "1.23.0",
+            "latest_version": "1.24.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1268,7 +1268,7 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.10.70",
+            "latest_version": "8.11.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1858,6 +1858,17 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/smart-edge-open/sriov-fec-operator",
             "documentation_url": ""
+        },
+        {
+            "package_name": "cloudnative-pg",
+            "display_name": "CloudNativePG",
+            "latest_version": "1.22.0",
+            "latest_channel": "stable-v1",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Auto Pilot",
+            "repository": "https://github.com/cloudnative-pg/cloudnative-pg",
+            "documentation_url": "https://cloudnative-pg.io/docs/"
         },
         {
             "package_name": "intel-device-plugins-operator",
