@@ -608,7 +608,7 @@
         {
             "package_name": "metallb-operator",
             "display_name": "MetalLB Operator",
-            "latest_version": "4.12.0-202311220908",
+            "latest_version": "4.12.0-202312061330",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -938,7 +938,7 @@
         {
             "package_name": "amq7-interconnect-operator",
             "display_name": "Red Hat Integration - AMQ Interconnect",
-            "latest_version": "1.10.18",
+            "latest_version": "1.10.19",
             "latest_channel": "1.10.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -982,7 +982,7 @@
         {
             "package_name": "devspaces",
             "display_name": "Red Hat OpenShift Dev Spaces",
-            "latest_version": "3.10.0",
+            "latest_version": "3.10.1",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1004,7 +1004,7 @@
         {
             "package_name": "compliance-operator",
             "display_name": "Compliance Operator",
-            "latest_version": "1.3.1",
+            "latest_version": "1.4.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
