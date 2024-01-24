@@ -355,7 +355,7 @@
         {
             "package_name": "sosivio",
             "display_name": "Sosivio | Predictive Troubleshooting for Kubernetes",
-            "latest_version": "2.0.0-150-ubi",
+            "latest_version": "2.1.0-158-ubi",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1103,7 +1103,7 @@
         {
             "package_name": "vfunction-server-operator",
             "display_name": "vFunction Operator",
-            "latest_version": "3.2.1228",
+            "latest_version": "3.3.1267",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1510,7 +1510,7 @@
         {
             "package_name": "function-mesh",
             "display_name": "Function Mesh Operator",
-            "latest_version": "0.18.0",
+            "latest_version": "0.19.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1895,7 +1895,7 @@
         {
             "package_name": "portworx-certified",
             "display_name": "Portworx Enterprise",
-            "latest_version": "23.10.1",
+            "latest_version": "23.10.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
