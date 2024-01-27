@@ -36,13 +36,13 @@
         {
             "package_name": "percona-postgresql-operator-certified-rhmp",
             "display_name": "Percona Operator for PostgreSQL",
-            "latest_version": "1.4.0",
-            "latest_channel": "stable",
+            "latest_version": "2.3.1",
+            "latest_channel": "preview",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Deep Insights",
             "repository": "https://github.com/percona/percona-postgresql-operator",
-            "documentation_url": "https://www.percona.com/doc/kubernetes-operator-for-postgresql/index.html"
+            "documentation_url": "https://docs.percona.com/percona-operator-for-postgresql/index.html"
         },
         {
             "package_name": "cockroachdb-certified-rhmp",
