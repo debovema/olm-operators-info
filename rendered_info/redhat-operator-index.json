@@ -322,8 +322,8 @@
         {
             "package_name": "mta-operator",
             "display_name": "Migration Toolkit for Applications Operator",
-            "latest_version": "6.2.1",
-            "latest_channel": "stable-v6.2",
+            "latest_version": "7.0.0",
+            "latest_channel": "stable-v7.0",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
