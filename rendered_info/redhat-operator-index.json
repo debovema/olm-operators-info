@@ -520,8 +520,8 @@
         {
             "package_name": "ansible-automation-platform-operator",
             "display_name": "Ansible Automation Platform",
-            "latest_version": "2.4.0-0.1707506910",
-            "latest_channel": "stable-2.4",
+            "latest_version": "2.4.0-0.1707507304",
+            "latest_channel": "stable-2.4-cluster-scoped",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
