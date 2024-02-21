@@ -212,8 +212,8 @@
         {
             "package_name": "cilium",
             "display_name": "Cilium",
-            "latest_version": "1.14.7-x3522df7",
-            "latest_channel": "1.14",
+            "latest_version": "1.15.1-x7095b76",
+            "latest_channel": "1.15",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
