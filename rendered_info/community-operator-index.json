@@ -740,7 +740,7 @@
         {
             "package_name": "nexus-operator",
             "display_name": "EDP Nexus Operator",
-            "latest_version": "3.1.0",
+            "latest_version": "3.2.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1541,6 +1541,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "korrel8r",
+            "display_name": "Korrel8r",
+            "latest_version": "0.0.8",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/korrel8r/korrel8r",
+            "documentation_url": "https://korrel8r.github.io/korrel8r"
+        },
+        {
             "package_name": "gingersnap",
             "display_name": "gingersnap Operator",
             "latest_version": "0.0.1",
@@ -1576,7 +1587,7 @@
         {
             "package_name": "opendatahub-operator",
             "display_name": "Open Data Hub Operator",
-            "latest_version": "2.7.0",
+            "latest_version": "2.8.0",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1686,7 +1697,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2024-02-20",
+            "latest_version": "3.0.0-nightly-2024-02-21",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
