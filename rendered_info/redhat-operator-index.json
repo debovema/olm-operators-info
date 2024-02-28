@@ -168,7 +168,7 @@
         {
             "package_name": "quay-operator",
             "display_name": "Red Hat Quay",
-            "latest_version": "3.10.3",
+            "latest_version": "3.10.4",
             "latest_channel": "stable-3.10",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -179,7 +179,7 @@
         {
             "package_name": "quay-bridge-operator",
             "display_name": "Red Hat Quay Bridge Operator",
-            "latest_version": "3.10.3",
+            "latest_version": "3.10.4",
             "latest_channel": "stable-3.10",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -575,7 +575,7 @@
         {
             "package_name": "rhods-operator",
             "display_name": "Red Hat OpenShift AI",
-            "latest_version": "2.6.0",
+            "latest_version": "2.7.0",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -707,7 +707,7 @@
         {
             "package_name": "container-security-operator",
             "display_name": "Red Hat Quay Container Security Operator",
-            "latest_version": "3.10.3",
+            "latest_version": "3.10.4",
             "latest_channel": "stable-3.10",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1037,7 +1037,7 @@
         {
             "package_name": "openshift-pipelines-operator-rh",
             "display_name": "Red Hat OpenShift Pipelines",
-            "latest_version": "1.13.1",
+            "latest_version": "1.14.0",
             "latest_channel": "latest",
             "disconnected_supported": true,
             "fips_supported": false,
