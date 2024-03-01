@@ -608,7 +608,7 @@
         {
             "package_name": "k8s-triliovault",
             "display_name": "Trilio for Kubernetes",
-            "latest_version": "4.0.1",
+            "latest_version": "4.0.2",
             "latest_channel": "4.0.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1642,8 +1642,8 @@
         {
             "package_name": "uma-admin-operator",
             "display_name": "DX APM Universal Monitoring Agent Admin For Multi-tenancy",
-            "latest_version": "2024.1.1-21",
-            "latest_channel": "2024.1",
+            "latest_version": "2024.2.1-8",
+            "latest_channel": "2024.2",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -2049,8 +2049,8 @@
         {
             "package_name": "uma-team-operator",
             "display_name": "DX APM Universal Monitoring Agent Team For Multi-tenancy",
-            "latest_version": "2024.1.1-21",
-            "latest_channel": "2024.1",
+            "latest_version": "2024.2.1-8",
+            "latest_channel": "2024.2",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
