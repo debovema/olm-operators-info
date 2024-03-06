@@ -1290,7 +1290,7 @@
         {
             "package_name": "ibm-data-reporter-operator",
             "display_name": "IBM Data Reporter Operator",
-            "latest_version": "2.13.4",
+            "latest_version": "2.13.5",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1334,7 +1334,7 @@
         {
             "package_name": "minio-operator",
             "display_name": "Minio Operator",
-            "latest_version": "5.0.12",
+            "latest_version": "5.0.13",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1389,7 +1389,7 @@
         {
             "package_name": "datadog-operator-certified",
             "display_name": "Datadog Operator",
-            "latest_version": "1.4.1",
+            "latest_version": "1.4.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1909,6 +1909,17 @@
             "latest_version": "1.1.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
+            "package_name": "pan-cn-series-operator",
+            "display_name": "pan-cn-series-operator",
+            "latest_version": "2.0.0",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": null,
