@@ -1015,7 +1015,7 @@
         {
             "package_name": "ndmspc-operator",
             "display_name": "NdmSpc operator",
-            "latest_version": "0.10.2",
+            "latest_version": "0.11.3",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1092,12 +1092,12 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2024-03-08",
+            "latest_version": "3.0.0-nightly-2024-03-15",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/maistra/istio-operator/tree/maistra-3.0",
+            "repository": "https://github.com/istio-ecosystem/sail-operator",
             "documentation_url": ""
         },
         {
@@ -2632,7 +2632,7 @@
         {
             "package_name": "aerospike-kubernetes-operator",
             "display_name": "Aerospike Kubernetes Operator",
-            "latest_version": "3.2.1",
+            "latest_version": "3.2.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
