@@ -2082,7 +2082,7 @@
         {
             "package_name": "forklift-operator",
             "display_name": "Forklift Operator",
-            "latest_version": "2.5.5",
+            "latest_version": "2.5.6",
             "latest_channel": "stable-v2.5",
             "disconnected_supported": false,
             "fips_supported": false,
