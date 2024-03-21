@@ -289,7 +289,7 @@
         {
             "package_name": "tempo-product",
             "display_name": "Tempo Operator",
-            "latest_version": "0.8.0-2",
+            "latest_version": "0.8.0-3",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -366,7 +366,7 @@
         {
             "package_name": "mta-operator",
             "display_name": "Migration Toolkit for Applications Operator",
-            "latest_version": "7.0.1",
+            "latest_version": "7.0.2",
             "latest_channel": "stable-v7.0",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -399,7 +399,7 @@
         {
             "package_name": "opentelemetry-product",
             "display_name": "Red Hat build of OpenTelemetry",
-            "latest_version": "0.93.0-2",
+            "latest_version": "0.93.0-3",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -410,8 +410,8 @@
         {
             "package_name": "openshift-gitops-operator",
             "display_name": "Red Hat OpenShift GitOps",
-            "latest_version": "1.11.2",
-            "latest_channel": "gitops-1.11",
+            "latest_version": "1.12.0",
+            "latest_channel": "gitops-1.12",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Deep Insights",
@@ -465,7 +465,7 @@
         {
             "package_name": "ptp-operator",
             "display_name": "PTP Operator",
-            "latest_version": "4.12.0-202402081808",
+            "latest_version": "4.12.0-202403071539",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -476,7 +476,7 @@
         {
             "package_name": "cluster-kube-descheduler-operator",
             "display_name": "Kube Descheduler Operator",
-            "latest_version": "4.12.0-202402081808",
+            "latest_version": "4.12.0-202403081207",
             "latest_channel": "4.12",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -509,10 +509,10 @@
         {
             "package_name": "multicluster-global-hub-operator-rh",
             "display_name": "Multicluster Global Hub Operator",
-            "latest_version": "1.0.2",
-            "latest_channel": "release-1.0",
+            "latest_version": "1.1.0",
+            "latest_channel": "release-1.1",
             "disconnected_supported": true,
-            "fips_supported": false,
+            "fips_supported": true,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/stolostron/multicluster-global-hub",
             "documentation_url": ""
@@ -938,7 +938,7 @@
         {
             "package_name": "local-storage-operator",
             "display_name": "Local Storage",
-            "latest_version": "4.12.0-202402081808",
+            "latest_version": "4.12.0-202403082008",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1037,7 +1037,7 @@
         {
             "package_name": "mtv-operator",
             "display_name": "Migration Toolkit for Virtualization Operator",
-            "latest_version": "2.5.5",
+            "latest_version": "2.5.6",
             "latest_channel": "release-v2.5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1191,7 +1191,7 @@
         {
             "package_name": "jaeger-product",
             "display_name": "Red Hat OpenShift distributed tracing platform",
-            "latest_version": "1.53.0-3",
+            "latest_version": "1.53.0-4",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1224,19 +1224,19 @@
         {
             "package_name": "volsync-product",
             "display_name": "VolSync",
-            "latest_version": "0.8.1",
+            "latest_version": "0.9.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/backube/volsync",
-            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.9/html/business_continuity/business-cont-overview#volsync"
+            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.10/html/business_continuity/business-cont-overview#volsync"
         },
         {
             "package_name": "advanced-cluster-management",
             "display_name": "Advanced Cluster Management for Kubernetes",
-            "latest_version": "2.9.3",
-            "latest_channel": "release-2.9",
+            "latest_version": "2.10.0",
+            "latest_channel": "release-2.10",
             "disconnected_supported": true,
             "fips_supported": true,
             "capabilities": "Seamless Upgrades",
