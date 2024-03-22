@@ -421,7 +421,7 @@
         {
             "package_name": "stackgres",
             "display_name": "StackGres",
-            "latest_version": "1.9.0-rc1",
+            "latest_version": "1.9.0",
             "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -542,7 +542,7 @@
         {
             "package_name": "percona-xtradb-cluster-operator-certified-rhmp",
             "display_name": "Percona Operator for MySQL based on Percona XtraDB Cluster",
-            "latest_version": "1.13.0",
+            "latest_version": "1.14.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
