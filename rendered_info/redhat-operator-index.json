@@ -839,7 +839,7 @@
         {
             "package_name": "windows-machine-config-operator",
             "display_name": "Windows Machine Config Operator",
-            "latest_version": "7.2.0",
+            "latest_version": "7.2.1",
             "latest_channel": "preview",
             "disconnected_supported": false,
             "fips_supported": false,
