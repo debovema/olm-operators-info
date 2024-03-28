@@ -3,7 +3,7 @@
         {
             "package_name": "loki-operator",
             "display_name": "Loki Operator",
-            "latest_version": "5.8.4",
+            "latest_version": "5.8.5",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -36,9 +36,9 @@
         {
             "package_name": "openshift-builds-operator",
             "display_name": "builds for Red Hat OpenShift Operator",
-            "latest_version": "1.0.0",
+            "latest_version": "1.0.1",
             "latest_channel": "latest",
-            "disconnected_supported": true,
+            "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
             "repository": "https://github.com/shipwright-io/operator",
@@ -388,7 +388,7 @@
         {
             "package_name": "numaresources-operator",
             "display_name": "numaresources-operator",
-            "latest_version": "4.12.6",
+            "latest_version": "4.12.8",
             "latest_channel": "4.12",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -443,7 +443,7 @@
         {
             "package_name": "rhacs-operator",
             "display_name": "Advanced Cluster Security for Kubernetes",
-            "latest_version": "4.3.5",
+            "latest_version": "4.3.6",
             "latest_channel": "rhacs-4.3",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -762,7 +762,7 @@
         {
             "package_name": "elasticsearch-operator",
             "display_name": "OpenShift Elasticsearch Operator",
-            "latest_version": "5.8.4",
+            "latest_version": "5.8.5",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -784,7 +784,7 @@
         {
             "package_name": "cluster-observability-operator",
             "display_name": "Cluster Observability Operator",
-            "latest_version": "0.1.1",
+            "latest_version": "0.1.2",
             "latest_channel": "development",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -894,7 +894,7 @@
         {
             "package_name": "cluster-logging",
             "display_name": "Red Hat OpenShift Logging",
-            "latest_version": "5.8.4",
+            "latest_version": "5.8.5",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1081,7 +1081,7 @@
         {
             "package_name": "authorino-operator",
             "display_name": "Red Hat - Authorino",
-            "latest_version": "1.0.0",
+            "latest_version": "1.0.1",
             "latest_channel": "managed-services",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1114,7 +1114,7 @@
         {
             "package_name": "openshift-pipelines-operator-rh",
             "display_name": "Red Hat OpenShift Pipelines",
-            "latest_version": "1.14.2",
+            "latest_version": "1.14.3",
             "latest_channel": "latest",
             "disconnected_supported": false,
             "fips_supported": false,
