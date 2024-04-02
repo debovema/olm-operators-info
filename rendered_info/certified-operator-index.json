@@ -388,7 +388,7 @@
         {
             "package_name": "ibm-metrics-operator",
             "display_name": "IBM Metrics Operator",
-            "latest_version": "2.14.0",
+            "latest_version": "2.14.1",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -762,7 +762,7 @@
         {
             "package_name": "redhat-marketplace-operator",
             "display_name": "Red Hat Marketplace Deployment Operator by IBM",
-            "latest_version": "2.14.0",
+            "latest_version": "2.14.1",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -861,7 +861,7 @@
         {
             "package_name": "ibm-data-reporter-operator",
             "display_name": "IBM Data Reporter Operator",
-            "latest_version": "2.14.0",
+            "latest_version": "2.14.1",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -938,7 +938,7 @@
         {
             "package_name": "elasticsearch-eck-operator-certified",
             "display_name": "Elasticsearch (ECK) Operator",
-            "latest_version": "2.12.0",
+            "latest_version": "2.12.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1048,8 +1048,8 @@
         {
             "package_name": "t8c-certified",
             "display_name": "Turbonomic Platform Operator",
-            "latest_version": "42.52.0",
-            "latest_channel": "stable",
+            "latest_version": "42.53.0-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1675,7 +1675,7 @@
         {
             "package_name": "nginx-ingress-operator",
             "display_name": "Nginx Ingress Operator",
-            "latest_version": "2.1.2",
+            "latest_version": "2.2.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
