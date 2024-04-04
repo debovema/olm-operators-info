@@ -256,7 +256,7 @@
         {
             "package_name": "dynatrace-operator-rhmp",
             "display_name": "Dynatrace Operator",
-            "latest_version": "0.14.2",
+            "latest_version": "0.15.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -432,8 +432,8 @@
         {
             "package_name": "couchbase-enterprise-certified-rhmp",
             "display_name": "Couchbase Operator",
-            "latest_version": "2.6.1-1",
-            "latest_channel": "2.6.1",
+            "latest_version": "2.6.2-1",
+            "latest_channel": "2.6.2",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Auto Pilot",
