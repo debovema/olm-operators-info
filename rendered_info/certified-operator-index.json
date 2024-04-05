@@ -25,12 +25,12 @@
         {
             "package_name": "stackable-hive-operator",
             "display_name": "Stackable Operator for Apache Hive",
-            "latest_version": "23.11.0",
+            "latest_version": "24.3.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
-            "capabilities": null,
-            "repository": null,
+            "capabilities": "Full Lifecycle",
+            "repository": "https://github.com/stackabletech/hive-operator",
             "documentation_url": ""
         },
         {
@@ -113,7 +113,7 @@
         {
             "package_name": "ibm-application-gateway-operator",
             "display_name": "IBM Application Gateway Operator",
-            "latest_version": "23.11.0",
+            "latest_version": "24.4.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -454,12 +454,12 @@
         {
             "package_name": "stackable-kafka-operator",
             "display_name": "Stackable Operator for Apache Kafka",
-            "latest_version": "23.11.0",
+            "latest_version": "24.3.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
-            "capabilities": null,
-            "repository": null,
+            "capabilities": "Full Lifecycle",
+            "repository": "https://github.com/stackabletech/kafka-operator",
             "documentation_url": ""
         },
         {
@@ -619,12 +619,12 @@
         {
             "package_name": "stackable-zookeeper-operator",
             "display_name": "Stackable Operator for Apache ZooKeeper",
-            "latest_version": "23.11.0",
+            "latest_version": "24.3.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
-            "capabilities": null,
-            "repository": null,
+            "capabilities": "Full Lifecycle",
+            "repository": "https://github.com/stackabletech/zookeeper-operator",
             "documentation_url": ""
         },
         {
@@ -751,12 +751,12 @@
         {
             "package_name": "stackable-hdfs-operator",
             "display_name": "Stackable Operator for Apache HDFS",
-            "latest_version": "23.11.0",
+            "latest_version": "24.3.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
-            "capabilities": null,
-            "repository": null,
+            "capabilities": "Full Lifecycle",
+            "repository": "https://github.com/stackabletech/hdfs-operator",
             "documentation_url": ""
         },
         {
@@ -850,12 +850,12 @@
         {
             "package_name": "stackable-nifi-operator",
             "display_name": "Stackable Operator for Apache Nifi",
-            "latest_version": "23.11.0",
+            "latest_version": "24.3.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
-            "capabilities": null,
-            "repository": null,
+            "capabilities": "Full Lifecycle",
+            "repository": "https://github.com/stackabletech/nifi-operator",
             "documentation_url": ""
         },
         {
@@ -960,12 +960,12 @@
         {
             "package_name": "stackable-trino-operator",
             "display_name": "Stackable Operator for Trino",
-            "latest_version": "23.11.0",
+            "latest_version": "24.3.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
-            "capabilities": null,
-            "repository": null,
+            "capabilities": "Full Lifecycle",
+            "repository": "https://github.com/stackabletech/trino-operator",
             "documentation_url": ""
         },
         {
@@ -1059,8 +1059,8 @@
         {
             "package_name": "abinitio-runtime-operator",
             "display_name": "Co>Operating System Runtime Operator",
-            "latest_version": "4.2.3-0",
-            "latest_channel": "stable",
+            "latest_version": "4.3.1-0",
+            "latest_channel": "release-4.3",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1103,8 +1103,8 @@
         {
             "package_name": "t8c-tsc-client-certified",
             "display_name": "Turbonomic Secure Connect Client",
-            "latest_version": "1.2.8-candidate-20240402211152000",
-            "latest_channel": "candidate",
+            "latest_version": "1.2.8",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1224,12 +1224,12 @@
         {
             "package_name": "stackable-druid-operator",
             "display_name": "Stackable Operator for Apache Druid",
-            "latest_version": "23.11.0",
+            "latest_version": "24.3.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
-            "capabilities": null,
-            "repository": null,
+            "capabilities": "Full Lifecycle",
+            "repository": "https://github.com/stackabletech/druid-operator",
             "documentation_url": ""
         },
         {
@@ -1301,34 +1301,34 @@
         {
             "package_name": "stackable-spark-operator",
             "display_name": "Stackable Operator for Apache Spark",
-            "latest_version": "23.11.0",
+            "latest_version": "24.3.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
-            "capabilities": null,
-            "repository": null,
+            "capabilities": "Full Lifecycle",
+            "repository": "https://github.com/stackabletech/spark-k8s-operator",
             "documentation_url": ""
         },
         {
             "package_name": "stackable-hbase-operator",
             "display_name": "Stackable Operator for Apache HBase",
-            "latest_version": "23.11.0",
+            "latest_version": "24.3.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
-            "capabilities": null,
-            "repository": null,
+            "capabilities": "Full Lifecycle",
+            "repository": "https://github.com/stackabletech/hbase-operator",
             "documentation_url": ""
         },
         {
             "package_name": "stackable-superset-operator",
             "display_name": "Stackable Operator for Apache Superset",
-            "latest_version": "23.11.0",
+            "latest_version": "24.3.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
-            "capabilities": null,
-            "repository": null,
+            "capabilities": "Full Lifecycle",
+            "repository": "https://github.com/stackabletech/superset-operator",
             "documentation_url": ""
         },
         {
@@ -1378,7 +1378,7 @@
         {
             "package_name": "stackable-airflow-operator",
             "display_name": "Stackable Operator for Apache Airflow",
-            "latest_version": "23.11.0",
+            "latest_version": "24.3.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1510,7 +1510,7 @@
         {
             "package_name": "portworx-certified",
             "display_name": "Portworx Enterprise",
-            "latest_version": "23.10.4",
+            "latest_version": "23.10.5",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2016,12 +2016,12 @@
         {
             "package_name": "stackable-opa-operator",
             "display_name": "Stackable Operator for Opa (Open Policy Agent)",
-            "latest_version": "23.11.0",
+            "latest_version": "24.3.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
-            "capabilities": null,
-            "repository": null,
+            "capabilities": "Full Lifecycle",
+            "repository": "https://github.com/stackabletech/opa-operator",
             "documentation_url": ""
         },
         {
