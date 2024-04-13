@@ -366,7 +366,7 @@
         {
             "package_name": "function-mesh",
             "display_name": "Function Mesh Operator",
-            "latest_version": "0.20.0",
+            "latest_version": "0.20.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -993,7 +993,7 @@
         {
             "package_name": "pg4k-pgd",
             "display_name": "EDB Postgres Distributed for Kubernetes",
-            "latest_version": "0.9.0",
+            "latest_version": "0.9.1",
             "latest_channel": "preview",
             "disconnected_supported": false,
             "fips_supported": false,
