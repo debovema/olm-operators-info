@@ -397,6 +397,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "rhbk-operator",
+            "display_name": "Keycloak Operator",
+            "latest_version": "22.0.10-opr.1",
+            "latest_channel": "stable-v22",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Deep Insights",
+            "repository": "https://github.com/keycloak/keycloak",
+            "documentation_url": "https://www.keycloak.org/guides#operator"
+        },
+        {
             "package_name": "openshift-gitops-operator",
             "display_name": "Red Hat OpenShift GitOps",
             "latest_version": "1.12.1",
@@ -542,7 +553,7 @@
         {
             "package_name": "mtc-operator",
             "display_name": "Migration Toolkit for Containers Operator",
-            "latest_version": "1.8.2",
+            "latest_version": "1.8.3",
             "latest_channel": "release-v1.8",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -652,8 +663,8 @@
         {
             "package_name": "skupper-operator",
             "display_name": "Red Hat Service Interconnect",
-            "latest_version": "1.4.4-rh-1",
-            "latest_channel": "alpha",
+            "latest_version": "1.5.3-rh-3",
+            "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -828,7 +839,7 @@
         {
             "package_name": "mtr-operator",
             "display_name": "Migration Toolkit for Runtimes Operator",
-            "latest_version": "1.2.4",
+            "latest_version": "1.2.5",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
