@@ -421,7 +421,7 @@
         {
             "package_name": "service-telemetry-operator",
             "display_name": "Service Telemetry Operator",
-            "latest_version": "1.5.1709040648",
+            "latest_version": "1.5.1713265833",
             "latest_channel": "stable-1.5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -542,7 +542,7 @@
         {
             "package_name": "smart-gateway-operator",
             "display_name": "Smart Gateway Operator",
-            "latest_version": "5.0.1709040649",
+            "latest_version": "5.0.1713265832",
             "latest_channel": "stable-1.5",
             "disconnected_supported": false,
             "fips_supported": false,
