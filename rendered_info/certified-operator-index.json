@@ -36,8 +36,8 @@
         {
             "package_name": "uma-team-operator",
             "display_name": "DX APM Universal Monitoring Agent Team For Multi-tenancy",
-            "latest_version": "2024.3.2-15",
-            "latest_channel": "2024.3",
+            "latest_version": "2024.4.2-8",
+            "latest_channel": "2024.4",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -355,7 +355,7 @@
         {
             "package_name": "stackgres-certified",
             "display_name": "StackGres",
-            "latest_version": "1.10.0-rc1",
+            "latest_version": "1.10.0",
             "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -630,8 +630,8 @@
         {
             "package_name": "uma-operator",
             "display_name": "DX APM Universal Monitoring Agent",
-            "latest_version": "2024.3.2-15",
-            "latest_channel": "2024.3",
+            "latest_version": "2024.4.2-8",
+            "latest_channel": "2024.4",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -652,7 +652,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "0.31.0",
+            "latest_version": "0.31.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1323,8 +1323,8 @@
         {
             "package_name": "uma-admin-operator",
             "display_name": "DX APM Universal Monitoring Agent Admin For Multi-tenancy",
-            "latest_version": "2024.3.2-15",
-            "latest_channel": "2024.3",
+            "latest_version": "2024.4.2-8",
+            "latest_channel": "2024.4",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -1488,7 +1488,7 @@
         {
             "package_name": "cloud-native-postgresql",
             "display_name": "EDB Postgres for Kubernetes",
-            "latest_version": "1.22.2",
+            "latest_version": "1.22.3",
             "latest_channel": "stable-v1.22",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1730,12 +1730,12 @@
         {
             "package_name": "stackable-listener-operator",
             "display_name": "Stackable Listener Operator",
-            "latest_version": "24.3.0",
+            "latest_version": "24.4.0-1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
-            "capabilities": null,
-            "repository": null,
+            "capabilities": "Full Lifecycle",
+            "repository": "https://github.com/stackabletech/listener-operator",
             "documentation_url": ""
         },
         {
