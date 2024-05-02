@@ -509,9 +509,9 @@
         {
             "package_name": "mongodb-enterprise",
             "display_name": "MongoDB Enterprise Operator",
-            "latest_version": "1.24.0",
+            "latest_version": "1.25.0",
             "latest_channel": "stable",
-            "disconnected_supported": true,
+            "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Deep Insights",
             "repository": "https://github.com/mongodb/mongodb-enterprise-kubernetes",
@@ -905,7 +905,7 @@
         {
             "package_name": "netscaler-adm-agent-operator",
             "display_name": "NetScaler ADM Agent Operator",
-            "latest_version": "141.23.31",
+            "latest_version": "141.25.33",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1136,7 +1136,7 @@
         {
             "package_name": "cloudnative-pg",
             "display_name": "CloudNativePG",
-            "latest_version": "1.22.2",
+            "latest_version": "1.23.1",
             "latest_channel": "stable-v1",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1378,8 +1378,8 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.12.20-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.12.20",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1994,7 +1994,7 @@
         {
             "package_name": "t8c-certified",
             "display_name": "Turbonomic Platform Operator",
-            "latest_version": "42.54.0",
+            "latest_version": "42.55.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2027,8 +2027,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.12.20-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.12.20",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
