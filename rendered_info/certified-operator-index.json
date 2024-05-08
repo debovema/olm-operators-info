@@ -234,7 +234,7 @@
         {
             "package_name": "minio-operator",
             "display_name": "Minio Operator",
-            "latest_version": "5.0.14",
+            "latest_version": "5.0.15",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
