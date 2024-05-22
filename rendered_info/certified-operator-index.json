@@ -619,7 +619,7 @@
         {
             "package_name": "tenant-operator",
             "display_name": "Multi Tenant Operator",
-            "latest_version": "0.12.0",
+            "latest_version": "0.12.1",
             "latest_channel": "release-0.12",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1400,7 +1400,7 @@
         {
             "package_name": "crunchy-postgres-operator",
             "display_name": "Crunchy Postgres for Kubernetes",
-            "latest_version": "5.5.1",
+            "latest_version": "5.5.2",
             "latest_channel": "v5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1609,7 +1609,7 @@
         {
             "package_name": "cilium-enterprise",
             "display_name": "Isovalent Enterprise for Cilium",
-            "latest_version": "1.14.10-x3747be9",
+            "latest_version": "1.14.11-xa7e2446",
             "latest_channel": "1.14",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1752,7 +1752,7 @@
         {
             "package_name": "k8s-triliovault",
             "display_name": "Trilio for Kubernetes",
-            "latest_version": "4.0.2",
+            "latest_version": "4.0.3",
             "latest_channel": "4.0.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1950,7 +1950,7 @@
         {
             "package_name": "vcp-operator",
             "display_name": "Venafi Control Plane Operator",
-            "latest_version": "0.0.1",
+            "latest_version": "0.0.3",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
