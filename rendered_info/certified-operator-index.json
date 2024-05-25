@@ -619,7 +619,7 @@
         {
             "package_name": "tenant-operator",
             "display_name": "Multi Tenant Operator",
-            "latest_version": "0.12.1",
+            "latest_version": "0.12.13",
             "latest_channel": "release-0.12",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1807,7 +1807,7 @@
         {
             "package_name": "acc-operator",
             "display_name": "netapp-acc-operator",
-            "latest_version": "24.2.0",
+            "latest_version": "24.2.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
