@@ -1290,7 +1290,7 @@
         {
             "package_name": "fujitsu-enterprise-operator",
             "display_name": "FUJITSU Enterprise Postgres 13 Operator",
-            "latest_version": "3.1.23",
+            "latest_version": "3.1.24",
             "latest_channel": "stable-13",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1499,7 +1499,7 @@
         {
             "package_name": "instana-agent-operator",
             "display_name": "Instana Agent Operator",
-            "latest_version": "2.0.27",
+            "latest_version": "2.0.31",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1554,7 +1554,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "1.0.0",
+            "latest_version": "1.0.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
