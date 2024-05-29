@@ -355,7 +355,7 @@
         {
             "package_name": "fujitsu-enterprise-postgres-operator",
             "display_name": "Fujitsu Enterprise Postgres Operator",
-            "latest_version": "5.2.5",
+            "latest_version": "5.2.6",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -564,7 +564,7 @@
         {
             "package_name": "vault-secrets-operator",
             "display_name": "Vault Secrets Operator",
-            "latest_version": "0.6.0",
+            "latest_version": "0.7.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1125,7 +1125,7 @@
         {
             "package_name": "digitalai-deploy-operator",
             "display_name": "Digital.ai Deploy",
-            "latest_version": "24.1.0-rc.3-redhat",
+            "latest_version": "24.1.2-rc.6-redhat",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1312,7 +1312,7 @@
         {
             "package_name": "digitalai-release-operator",
             "display_name": "Digital.ai Release",
-            "latest_version": "24.1.0-rc.3-redhat",
+            "latest_version": "24.1.2-rc.6-redhat",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
