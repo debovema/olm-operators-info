@@ -399,12 +399,12 @@
         {
             "package_name": "gatekeeper-operator-product",
             "display_name": "Gatekeeper Operator",
-            "latest_version": "3.14.0",
+            "latest_version": "3.14.1",
             "latest_channel": "3.14",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
-            "repository": "https://github.com/gatekeeper/gatekeeper-operator",
+            "repository": "https://github.com/stolostron/gatekeeper-operator",
             "documentation_url": ""
         },
         {
@@ -652,7 +652,7 @@
         {
             "package_name": "rhpam-kogito-operator",
             "display_name": "RHPAM Kogito Operator",
-            "latest_version": "7.13.5-1",
+            "latest_version": "7.13.5-2",
             "latest_channel": "7.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1070,7 +1070,7 @@
         {
             "package_name": "businessautomation-operator",
             "display_name": "Business Automation",
-            "latest_version": "7.13.5-2",
+            "latest_version": "7.13.5-3",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
