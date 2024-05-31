@@ -289,7 +289,7 @@
         {
             "package_name": "infinispan",
             "display_name": "Infinispan Operator",
-            "latest_version": "2.4.1",
+            "latest_version": "2.4.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1378,7 +1378,7 @@
         {
             "package_name": "codeflare-operator",
             "display_name": "CodeFlare Operator",
-            "latest_version": "1.4.1",
+            "latest_version": "1.4.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1906,7 +1906,7 @@
         {
             "package_name": "fence-agents-remediation",
             "display_name": "Fence Agents Remediation Operator - Community Edition",
-            "latest_version": "0.3.0",
+            "latest_version": "0.4.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1961,7 +1961,7 @@
         {
             "package_name": "pulsar-resources-operator",
             "display_name": "Pulsar Resources Operator",
-            "latest_version": "0.4.5",
+            "latest_version": "0.4.10",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2170,7 +2170,7 @@
         {
             "package_name": "hawtio-operator",
             "display_name": "Hawtio Operator",
-            "latest_version": "1.0.1",
+            "latest_version": "1.1.0",
             "latest_channel": "latest",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2565,8 +2565,8 @@
         },
         {
             "package_name": "amd-gpu-operator",
-            "display_name": "AMD GPU Operator",
-            "latest_version": "0.0.3",
+            "display_name": "amd-gpu-operator",
+            "latest_version": "0.0.4",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

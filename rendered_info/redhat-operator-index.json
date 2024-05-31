@@ -14,7 +14,7 @@
         {
             "package_name": "sriov-network-operator",
             "display_name": "SR-IOV Network Operator",
-            "latest_version": "4.12.0-202405091536",
+            "latest_version": "4.12.0-202405141537",
             "latest_channel": "4.12",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -146,7 +146,7 @@
         {
             "package_name": "local-storage-operator",
             "display_name": "Local Storage",
-            "latest_version": "4.12.0-202405091536",
+            "latest_version": "4.12.0-202405141537",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -223,7 +223,7 @@
         {
             "package_name": "gcp-filestore-csi-driver-operator",
             "display_name": "GCP Filestore CSI Driver Operator",
-            "latest_version": "4.12.0-202405091536",
+            "latest_version": "4.12.0-202405141537",
             "latest_channel": "preview",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -322,7 +322,7 @@
         {
             "package_name": "nfd",
             "display_name": "Node Feature Discovery Operator",
-            "latest_version": "4.12.0-202405091536",
+            "latest_version": "4.12.0-202405141537",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -355,7 +355,7 @@
         {
             "package_name": "clusterresourceoverride",
             "display_name": "ClusterResourceOverride Operator",
-            "latest_version": "4.12.0-202405091536",
+            "latest_version": "4.12.0-202405141537",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -486,19 +486,19 @@
         },
         {
             "package_name": "amq-streams",
-            "display_name": "AMQ Streams",
-            "latest_version": "2.6.0-2",
-            "latest_channel": "amq-streams-2.6.x",
+            "display_name": "Red Hat Streams for Apache Kafka",
+            "latest_version": "2.7.0-0",
+            "latest_channel": "amq-streams-2.7.x",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Deep Insights",
             "repository": "https://github.com/strimzi/strimzi-kafka-operator",
-            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_amq_streams"
+            "documentation_url": "https://docs.redhat.com/en/documentation/red_hat_streams_for_apache_kafka"
         },
         {
             "package_name": "metallb-operator",
             "display_name": "MetalLB Operator",
-            "latest_version": "4.12.0-202405091536",
+            "latest_version": "4.12.0-202405141537",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -509,7 +509,7 @@
         {
             "package_name": "ansible-cloud-addons-operator",
             "display_name": "Ansible Cloud Addons",
-            "latest_version": "2.4.0-0.1713463331",
+            "latest_version": "2.4.0-0.1715891874",
             "latest_channel": "stable-2.4-cluster-scoped",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -564,7 +564,7 @@
         {
             "package_name": "ansible-automation-platform-operator",
             "display_name": "Ansible Automation Platform",
-            "latest_version": "2.4.0-0.1713467078",
+            "latest_version": "2.4.0-0.1715899379",
             "latest_channel": "stable-2.4-cluster-scoped",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -597,7 +597,7 @@
         {
             "package_name": "ptp-operator",
             "display_name": "PTP Operator",
-            "latest_version": "4.12.0-202405091536",
+            "latest_version": "4.12.0-202405141537",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -916,7 +916,7 @@
         {
             "package_name": "aws-efs-csi-driver-operator",
             "display_name": "AWS EFS CSI Driver Operator",
-            "latest_version": "4.12.0-202405091536",
+            "latest_version": "4.12.0-202405141537",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1037,7 +1037,7 @@
         {
             "package_name": "vertical-pod-autoscaler",
             "display_name": "VerticalPodAutoscaler",
-            "latest_version": "4.12.0-202405091536",
+            "latest_version": "4.12.0-202405141537",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1191,7 +1191,7 @@
         {
             "package_name": "kubernetes-nmstate-operator",
             "display_name": "Kubernetes NMState Operator",
-            "latest_version": "4.12.0-202402211639",
+            "latest_version": "4.12.0-202405141537",
             "latest_channel": "4.12",
             "disconnected_supported": true,
             "fips_supported": false,
