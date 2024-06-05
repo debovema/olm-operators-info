@@ -91,7 +91,7 @@
         {
             "package_name": "jws-operator",
             "display_name": "JWS Operator",
-            "latest_version": "2.0.11",
+            "latest_version": "2.0.12",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -487,7 +487,7 @@
         {
             "package_name": "amq-streams",
             "display_name": "Red Hat Streams for Apache Kafka",
-            "latest_version": "2.7.0-0",
+            "latest_version": "2.7.0-1",
             "latest_channel": "amq-streams-2.7.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1004,7 +1004,7 @@
         {
             "package_name": "rhbk-operator",
             "display_name": "Keycloak Operator",
-            "latest_version": "24.0.4-opr.1",
+            "latest_version": "24.0.5-opr.1",
             "latest_channel": "stable-v24",
             "disconnected_supported": false,
             "fips_supported": false,
