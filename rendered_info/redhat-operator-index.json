@@ -509,7 +509,7 @@
         {
             "package_name": "ansible-cloud-addons-operator",
             "display_name": "Ansible Cloud Addons",
-            "latest_version": "2.4.0-0.1717108266",
+            "latest_version": "2.4.0-0.1717558193",
             "latest_channel": "stable-2.4-cluster-scoped",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -564,7 +564,7 @@
         {
             "package_name": "ansible-automation-platform-operator",
             "display_name": "Ansible Automation Platform",
-            "latest_version": "2.4.0-0.1715899379",
+            "latest_version": "2.4.0-0.1717558885",
             "latest_channel": "stable-2.4-cluster-scoped",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -817,7 +817,7 @@
         {
             "package_name": "devspaces",
             "display_name": "Red Hat OpenShift Dev Spaces",
-            "latest_version": "3.13.0",
+            "latest_version": "3.14.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -971,7 +971,7 @@
         {
             "package_name": "marin3r-operator",
             "display_name": "Red Hat - MARIN3R",
-            "latest_version": "0.12.3",
+            "latest_version": "0.13.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1048,7 +1048,7 @@
         {
             "package_name": "eap",
             "display_name": "JBoss EAP",
-            "latest_version": "3.0.1",
+            "latest_version": "3.0.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1168,9 +1168,9 @@
         },
         {
             "package_name": "authorino-operator",
-            "display_name": "Red Hat - Authorino",
-            "latest_version": "1.0.1",
-            "latest_channel": "managed-services",
+            "display_name": "Red Hat - Authorino (Technical Preview)",
+            "latest_version": "1.0.2",
+            "latest_channel": "tech-preview-v1",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
