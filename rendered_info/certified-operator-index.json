@@ -421,7 +421,7 @@
         {
             "package_name": "sn-operator",
             "display_name": "StreamNative Operator",
-            "latest_version": "0.3.0",
+            "latest_version": "0.4.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -597,7 +597,7 @@
         {
             "package_name": "mongodb-atlas-kubernetes",
             "display_name": "MongoDB Atlas Operator",
-            "latest_version": "2.3.0",
+            "latest_version": "2.3.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -927,7 +927,7 @@
         {
             "package_name": "stackgres-certified",
             "display_name": "StackGres",
-            "latest_version": "1.10.0",
+            "latest_version": "1.11.0-rc1",
             "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1301,7 +1301,7 @@
         {
             "package_name": "fujitsu-enterprise-operator",
             "display_name": "FUJITSU Enterprise Postgres 13 Operator",
-            "latest_version": "3.1.24",
+            "latest_version": "3.1.25",
             "latest_channel": "stable-13",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1576,7 +1576,7 @@
         {
             "package_name": "pulsar-resources-operator",
             "display_name": "Pulsar Resources Operator",
-            "latest_version": "0.4.5",
+            "latest_version": "0.4.10",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1774,7 +1774,7 @@
         {
             "package_name": "percona-server-mongodb-operator-certified",
             "display_name": "Percona Distribution for MongoDB Operator",
-            "latest_version": "1.15.0",
+            "latest_version": "1.16.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2027,8 +2027,8 @@
         {
             "package_name": "tigera-operator",
             "display_name": "Tigera Operator",
-            "latest_version": "1.32.3",
-            "latest_channel": "release-v1.32",
+            "latest_version": "1.34.0",
+            "latest_channel": "release-v1.34",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
