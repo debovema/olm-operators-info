@@ -1246,7 +1246,7 @@
         {
             "package_name": "vfunction-server-operator",
             "display_name": "vFunction Operator",
-            "latest_version": "3.5.1358",
+            "latest_version": "3.5.1396",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
