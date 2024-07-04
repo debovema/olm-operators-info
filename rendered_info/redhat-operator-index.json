@@ -531,7 +531,7 @@
         {
             "package_name": "multicluster-engine",
             "display_name": "multicluster engine for Kubernetes",
-            "latest_version": "2.5.3",
+            "latest_version": "2.5.4",
             "latest_channel": "stable-2.5",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -564,7 +564,7 @@
         {
             "package_name": "klusterlet-product",
             "display_name": "Klusterlet",
-            "latest_version": "2.5.3",
+            "latest_version": "2.5.4",
             "latest_channel": "stable-2.5",
             "disconnected_supported": false,
             "fips_supported": false,
