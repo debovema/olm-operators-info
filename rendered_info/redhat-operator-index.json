@@ -212,7 +212,7 @@
         {
             "package_name": "rhacs-operator",
             "display_name": "Advanced Cluster Security for Kubernetes",
-            "latest_version": "4.4.3",
+            "latest_version": "4.4.4",
             "latest_channel": "rhacs-4.4",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -256,8 +256,8 @@
         {
             "package_name": "openshift-gitops-operator",
             "display_name": "Red Hat OpenShift GitOps",
-            "latest_version": "1.12.4",
-            "latest_channel": "gitops-1.12",
+            "latest_version": "1.13.0",
+            "latest_channel": "gitops-1.13",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Deep Insights",
@@ -696,7 +696,7 @@
         {
             "package_name": "cryostat-operator",
             "display_name": "Red Hat build of Cryostat",
-            "latest_version": "2.4.0",
+            "latest_version": "3.0.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -762,7 +762,7 @@
         {
             "package_name": "jaeger-product",
             "display_name": "Red Hat OpenShift distributed tracing platform",
-            "latest_version": "1.57.0-6",
+            "latest_version": "1.57.0-7",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -971,7 +971,7 @@
         {
             "package_name": "tempo-product",
             "display_name": "Tempo Operator",
-            "latest_version": "0.10.0-7",
+            "latest_version": "0.10.0-8",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1136,7 +1136,7 @@
         {
             "package_name": "opentelemetry-product",
             "display_name": "Red Hat build of OpenTelemetry",
-            "latest_version": "0.102.0-2",
+            "latest_version": "0.102.0-3",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
