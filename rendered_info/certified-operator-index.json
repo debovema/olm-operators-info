@@ -1004,9 +1004,9 @@
         {
             "package_name": "tawon-operator",
             "display_name": "Tawon",
-            "latest_version": "2.32.1",
+            "latest_version": "2.32.8",
             "latest_channel": "alpha",
-            "disconnected_supported": true,
+            "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": null,
