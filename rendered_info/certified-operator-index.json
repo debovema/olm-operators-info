@@ -146,11 +146,11 @@
         {
             "package_name": "app-insights-operator",
             "display_name": "App Insights",
-            "latest_version": "1.5.0",
+            "latest_version": "1.8.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
-            "capabilities": "Basic Install",
+            "capabilities": null,
             "repository": null,
             "documentation_url": ""
         },
@@ -476,7 +476,7 @@
         {
             "package_name": "tawon-operator",
             "display_name": "Tawon",
-            "latest_version": "2.32.8",
+            "latest_version": "2.32.10",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -894,7 +894,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "1.1.1",
+            "latest_version": "1.1.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1400,7 +1400,7 @@
         {
             "package_name": "anzo-operator",
             "display_name": "Anzo Operator",
-            "latest_version": "2.0.400",
+            "latest_version": "2.0.500",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2067,6 +2067,17 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/intel/intel-ethernet-operator",
             "documentation_url": "https://github.com/intel/intel-ethernet-operator/blob/certified/docs/intel-ethernet-operator.md"
+        },
+        {
+            "package_name": "pubsubplus-eventbroker-operator",
+            "display_name": "Solace PubSub+ Event Broker Operator",
+            "latest_version": "1.1.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/SolaceProducts/pubsubplus-kubernetes-quickstart",
+            "documentation_url": ""
         },
         {
             "package_name": "eginnovations-operator",
