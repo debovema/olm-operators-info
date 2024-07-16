@@ -509,7 +509,7 @@
         {
             "package_name": "quay-bridge-operator",
             "display_name": "Red Hat Quay Bridge Operator",
-            "latest_version": "3.11.1",
+            "latest_version": "3.11.2",
             "latest_channel": "stable-3.11",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -564,7 +564,7 @@
         {
             "package_name": "devworkspace-operator",
             "display_name": "DevWorkspace Operator",
-            "latest_version": "0.28.0",
+            "latest_version": "0.29.0",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -850,7 +850,7 @@
         {
             "package_name": "container-security-operator",
             "display_name": "Red Hat Quay Container Security Operator",
-            "latest_version": "3.11.1",
+            "latest_version": "3.11.2",
             "latest_channel": "stable-3.11",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -872,7 +872,7 @@
         {
             "package_name": "openshift-builds-operator",
             "display_name": "builds for Red Hat OpenShift Operator",
-            "latest_version": "1.0.1",
+            "latest_version": "1.0.2",
             "latest_channel": "latest",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -971,7 +971,7 @@
         {
             "package_name": "quay-operator",
             "display_name": "Red Hat Quay",
-            "latest_version": "3.11.1",
+            "latest_version": "3.11.2",
             "latest_channel": "stable-3.11",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1004,13 +1004,13 @@
         {
             "package_name": "multicluster-engine",
             "display_name": "multicluster engine for Kubernetes",
-            "latest_version": "2.5.5",
-            "latest_channel": "stable-2.5",
+            "latest_version": "2.6.0",
+            "latest_channel": "stable-2.6",
             "disconnected_supported": true,
             "fips_supported": true,
             "capabilities": "Seamless Upgrades",
             "repository": null,
-            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.10/html/clusters/index"
+            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.11/html/clusters/index"
         },
         {
             "package_name": "cluster-logging",
