@@ -927,7 +927,7 @@
         {
             "package_name": "loki-operator",
             "display_name": "Loki Operator",
-            "latest_version": "5.8.8",
+            "latest_version": "5.8.9",
             "latest_channel": "stable-5.8",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1015,7 +1015,7 @@
         {
             "package_name": "cluster-logging",
             "display_name": "Red Hat OpenShift Logging",
-            "latest_version": "5.8.8",
+            "latest_version": "5.8.9",
             "latest_channel": "stable-5.8",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1026,8 +1026,8 @@
         {
             "package_name": "self-node-remediation",
             "display_name": "Self Node Remediation Operator",
-            "latest_version": "0.8.0",
-            "latest_channel": "stable",
+            "latest_version": "0.9.0",
+            "latest_channel": "4.16-eus",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1092,8 +1092,8 @@
         {
             "package_name": "openshift-pipelines-operator-rh",
             "display_name": "Red Hat OpenShift Pipelines",
-            "latest_version": "1.14.4",
-            "latest_channel": "latest",
+            "latest_version": "1.14.5",
+            "latest_channel": "pipelines-1.14",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
@@ -1136,7 +1136,7 @@
         {
             "package_name": "elasticsearch-operator",
             "display_name": "OpenShift Elasticsearch Operator",
-            "latest_version": "5.8.8",
+            "latest_version": "5.8.9",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1246,7 +1246,7 @@
         {
             "package_name": "eap",
             "display_name": "JBoss EAP",
-            "latest_version": "3.0.2",
+            "latest_version": "3.1.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
