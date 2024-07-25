@@ -124,8 +124,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.13.10-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.13.10",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -333,7 +333,7 @@
         {
             "package_name": "netscaler-operator",
             "display_name": "NetScaler Operator",
-            "latest_version": "2.4.0",
+            "latest_version": "2.4.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -564,7 +564,7 @@
         {
             "package_name": "tawon-operator",
             "display_name": "Tawon",
-            "latest_version": "2.32.10",
+            "latest_version": "2.33.3",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1257,7 +1257,7 @@
         {
             "package_name": "nutanixcsioperator",
             "display_name": "Nutanix CSI Operator",
-            "latest_version": "2.6.6",
+            "latest_version": "2.6.10",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1697,7 +1697,7 @@
         {
             "package_name": "ibm-data-reporter-operator",
             "display_name": "IBM Data Reporter Operator",
-            "latest_version": "2.16.1",
+            "latest_version": "2.16.2",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1785,8 +1785,8 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.13.10-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.13.10",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -2115,8 +2115,8 @@
         {
             "package_name": "t8c-certified",
             "display_name": "Turbonomic Platform Operator",
-            "latest_version": "42.60.0-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "42.60.0",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",

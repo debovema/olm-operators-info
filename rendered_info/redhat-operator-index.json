@@ -3,7 +3,7 @@
         {
             "package_name": "openshift-custom-metrics-autoscaler-operator",
             "display_name": "Custom Metrics Autoscaler",
-            "latest_version": "2.12.1-394",
+            "latest_version": "2.13.1-427",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -663,8 +663,8 @@
         {
             "package_name": "rhacs-operator",
             "display_name": "Advanced Cluster Security for Kubernetes",
-            "latest_version": "4.4.4",
-            "latest_channel": "rhacs-4.4",
+            "latest_version": "4.5.0",
+            "latest_channel": "rhacs-4.5",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -839,7 +839,7 @@
         {
             "package_name": "datagrid",
             "display_name": "Data Grid",
-            "latest_version": "8.5.0",
+            "latest_version": "8.5.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -960,7 +960,7 @@
         {
             "package_name": "lvms-operator",
             "display_name": "LVM Storage",
-            "latest_version": "4.12.6",
+            "latest_version": "4.12.7",
             "latest_channel": "stable-4.12",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -989,17 +989,6 @@
             "capabilities": "Basic Install",
             "repository": null,
             "documentation_url": ""
-        },
-        {
-            "package_name": "rhbk-operator",
-            "display_name": "Keycloak Operator",
-            "latest_version": "24.0.6-opr.1",
-            "latest_channel": "stable-v24",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/keycloak/keycloak",
-            "documentation_url": "https://www.keycloak.org/guides#operator"
         },
         {
             "package_name": "amq-streams",
