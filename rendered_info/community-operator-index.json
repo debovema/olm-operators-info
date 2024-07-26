@@ -23,17 +23,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "openebs",
-            "display_name": "OpenEBS",
-            "latest_version": "3.0.0",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/openebs/helm-operator",
-            "documentation_url": ""
-        },
-        {
             "package_name": "azure-service-operator",
             "display_name": "Azure Service Operator",
             "latest_version": "1.0.59040",
@@ -42,17 +31,6 @@
             "fips_supported": false,
             "capabilities": "Deep Insights",
             "repository": "https://github.com/Azure/azure-service-operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "t8c",
-            "display_name": "Turbonomic Platform Operator",
-            "latest_version": "42.22.0",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/turbonomic/t8c-install/tree/master/operator",
             "documentation_url": ""
         },
         {
@@ -78,37 +56,15 @@
             "documentation_url": ""
         },
         {
-            "package_name": "nsm-operator",
-            "display_name": "nsm-operator",
-            "latest_version": "1.8.0",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/networkservicemesh/nsm-operator",
-            "documentation_url": ""
-        },
-        {
             "package_name": "ack-route53resolver-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Route53Resolver",
-            "latest_version": "0.0.7",
+            "latest_version": "0.0.8",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/aws-controllers-k8s",
             "documentation_url": "https://aws-controllers-k8s.github.io/community/"
-        },
-        {
-            "package_name": "patch-operator",
-            "display_name": "Patch Operator",
-            "latest_version": "0.1.11",
-            "latest_channel": "alpha",
-            "disconnected_supported": true,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
-            "repository": "https://github.com/redhat-cop/patch-operator",
-            "documentation_url": ""
         },
         {
             "package_name": "apicurio-registry",
@@ -144,17 +100,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "openshift-nfd-operator",
-            "display_name": "Node Feature Discovery Operator",
-            "latest_version": "4.10.0",
-            "latest_channel": "stable",
-            "disconnected_supported": true,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/openshift/cluster-nfd-operator",
-            "documentation_url": ""
-        },
-        {
             "package_name": "aqua",
             "display_name": "Aqua Security Operator",
             "latest_version": "2022.4.17",
@@ -163,72 +108,6 @@
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/aquasecurity/aqua-operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "node-healthcheck-operator",
-            "display_name": "Node Health Check Operator",
-            "latest_version": "0.7.0",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/medik8s/node-healthcheck-operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "silicom-sts-operator",
-            "display_name": "Silicom STS Operator",
-            "latest_version": "0.0.6",
-            "latest_channel": "alpha",
-            "disconnected_supported": true,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "github.com/silicomdk/sts-operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "rabbitmq-messaging-topology-operator",
-            "display_name": "rabbitmq-messaging-topology-operator",
-            "latest_version": "1.14.2",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/rabbitmq/messaging-topology-operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "skupper-operator",
-            "display_name": "Skupper",
-            "latest_version": "1.7.1",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/skupperproject/skupper-operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "prometheus-exporter-operator",
-            "display_name": "Prometheus Exporter Operator",
-            "latest_version": "0.7.0",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/3scale-ops/prometheus-exporter-operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "netobserv-operator",
-            "display_name": "NetObserv Operator",
-            "latest_version": "1.6.1-community",
-            "latest_channel": "community",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/netobserv/network-observability-operator",
             "documentation_url": ""
         },
         {
@@ -251,17 +130,6 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/openshift/assisted-service",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "windup-operator",
-            "display_name": "Windup Operator",
-            "latest_version": "0.0.25",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/windup/windup-operator/",
             "documentation_url": ""
         },
         {
@@ -300,7 +168,7 @@
         {
             "package_name": "ack-route53-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Route53",
-            "latest_version": "0.0.14",
+            "latest_version": "0.0.15",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -320,28 +188,6 @@
             "documentation_url": "https://www.keycloak.org/guides#operator"
         },
         {
-            "package_name": "ocm-operator",
-            "display_name": "OpenShift Cluster Manager Operator",
-            "latest_version": "0.1.0",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/rh-mobb/ocm-operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "shipwright-operator",
-            "display_name": "Shipwright Operator",
-            "latest_version": "0.13.0",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/shipwright-io/operator",
-            "documentation_url": "https://shipwright.io"
-        },
-        {
             "package_name": "ack-apigatewayv2-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon API Gateway v2",
             "latest_version": "1.0.13",
@@ -351,39 +197,6 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/aws-controllers-k8s",
             "documentation_url": "https://aws-controllers-k8s.github.io/community/"
-        },
-        {
-            "package_name": "prometurbo",
-            "display_name": "Prometurbo Operator",
-            "latest_version": "8.7.1-beta.1",
-            "latest_channel": "beta",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/turbonomic/prometurbo/tree/master/deploy/prometurbo-operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "node-discovery-operator",
-            "display_name": "node-discovery-operator",
-            "latest_version": "0.0.1",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": null,
-            "documentation_url": ""
-        },
-        {
-            "package_name": "sonataflow-operator",
-            "display_name": "SonataFlow Operator",
-            "latest_version": "1.40.1",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/kiegroup/kogito-serverless-operator",
-            "documentation_url": ""
         },
         {
             "package_name": "ack-acm-controller",
@@ -399,7 +212,7 @@
         {
             "package_name": "ack-kms-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon KMS",
-            "latest_version": "1.0.13",
+            "latest_version": "1.0.14",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -421,7 +234,7 @@
         {
             "package_name": "ack-prometheusservice-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Prometheus",
-            "latest_version": "1.2.11",
+            "latest_version": "1.2.12",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -439,17 +252,6 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/IBM/cloud-operators",
             "documentation_url": ""
-        },
-        {
-            "package_name": "seldon-operator",
-            "display_name": "Seldon Operator",
-            "latest_version": "1.16.0",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/SeldonIO/seldon-core",
-            "documentation_url": "https://docs.seldon.io/projects/seldon-core/en/latest/"
         },
         {
             "package_name": "kaoto-operator",
@@ -483,17 +285,6 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/aws-controllers-k8s",
             "documentation_url": "https://aws-controllers-k8s.github.io/community/"
-        },
-        {
-            "package_name": "service-binding-operator",
-            "display_name": "Service Binding Operator",
-            "latest_version": "1.4.0",
-            "latest_channel": "stable",
-            "disconnected_supported": true,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/redhat-developer/service-binding-operator",
-            "documentation_url": "https://redhat-developer.github.io/service-binding-operator"
         },
         {
             "package_name": "ack-cloudfront-controller",
@@ -551,17 +342,6 @@
             "documentation_url": "https://aws-controllers-k8s.github.io/community/"
         },
         {
-            "package_name": "marin3r",
-            "display_name": "MARIN3R",
-            "latest_version": "0.10.0",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
-            "repository": "https://github.com/3scale-ops/marin3r",
-            "documentation_url": ""
-        },
-        {
             "package_name": "ack-kafka-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Kafka",
             "latest_version": "0.0.8",
@@ -597,7 +377,7 @@
         {
             "package_name": "ack-eks-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EKS",
-            "latest_version": "1.4.2",
+            "latest_version": "1.4.3",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -650,17 +430,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "mariadb-operator",
-            "display_name": "MariaDB Operator",
-            "latest_version": "0.29.0",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/mariadb-operator/mariadb-operator",
-            "documentation_url": ""
-        },
-        {
             "package_name": "kogito-operator",
             "display_name": "Kogito",
             "latest_version": "1.44.1",
@@ -670,17 +439,6 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/kiegroup/kogito-operator",
             "documentation_url": "https://github.com/kiegroup/kogito-operator/blob/main/README.md"
-        },
-        {
-            "package_name": "strimzi-kafka-operator",
-            "display_name": "Strimzi",
-            "latest_version": "0.42.0",
-            "latest_channel": "stable",
-            "disconnected_supported": true,
-            "fips_supported": true,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/strimzi/strimzi-kafka-operator",
-            "documentation_url": "https://strimzi.io/documentation/"
         },
         {
             "package_name": "codeflare-operator",
@@ -694,17 +452,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "snapscheduler",
-            "display_name": "SnapScheduler",
-            "latest_version": "3.4.0",
-            "latest_channel": "candidate",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
-            "repository": "https://github.com/backube/snapscheduler",
-            "documentation_url": "https://backube.github.io/snapscheduler/"
-        },
-        {
             "package_name": "amd-gpu-operator",
             "display_name": "amd-gpu-operator",
             "latest_version": "0.0.4",
@@ -714,17 +461,6 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/yevgeny-shnaidman/amd-gpu-operator",
             "documentation_url": ""
-        },
-        {
-            "package_name": "reportportal-operator",
-            "display_name": "reportportal-operator",
-            "latest_version": "0.0.8",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/waynesun09/reportportal-operator",
-            "documentation_url": "https://github.com/waynesun09/reportportal-operator/blob/master/README.md"
         },
         {
             "package_name": "lib-bucket-provisioner",
@@ -738,17 +474,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "patterns-operator",
-            "display_name": "Validated Patterns Operator",
-            "latest_version": "0.0.52",
-            "latest_channel": "fast",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/validatedpatterns/patterns-operator",
-            "documentation_url": ""
-        },
-        {
             "package_name": "machine-deletion-remediation",
             "display_name": "Machine Deletion Remediation Operator - Community Edition",
             "latest_version": "0.3.0",
@@ -758,17 +483,6 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/medik8s/machine-deletion-remediation",
             "documentation_url": ""
-        },
-        {
-            "package_name": "nexus-operator-m88i",
-            "display_name": "Nexus Operator",
-            "latest_version": "0.6.0",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/m88i/nexus-operator",
-            "documentation_url": "https://github.com/m88i/nexus-operator/blob/main/README.md"
         },
         {
             "package_name": "ack-organizations-controller",
@@ -804,39 +518,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "tempo-operator",
-            "display_name": "Community Tempo Operator",
-            "latest_version": "0.11.1",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/grafana/tempo-operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "sap-hana-express-operator",
-            "display_name": "SAP Hana Express Operator",
-            "latest_version": "1.0.2",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
-            "repository": null,
-            "documentation_url": ""
-        },
-        {
-            "package_name": "opentelemetry-operator",
-            "display_name": "Community OpenTelemetry Operator",
-            "latest_version": "0.104.0",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "github.com/open-telemetry/opentelemetry-operator",
-            "documentation_url": ""
-        },
-        {
             "package_name": "camel-karavan-operator",
             "display_name": "Camel Karavan Operator",
             "latest_version": "3.20.1",
@@ -859,17 +540,6 @@
             "documentation_url": "https://aws-controllers-k8s.github.io/community/"
         },
         {
-            "package_name": "verticadb-operator",
-            "display_name": "VerticaDB Operator",
-            "latest_version": "2.1.3",
-            "latest_channel": "v2-stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Auto Pilot",
-            "repository": "https://github.com/vertica/vertica-kubernetes",
-            "documentation_url": "https://www.vertica.com/docs/latest/HTML/Content/Authoring/Containers/ContainerizedVertica.htm"
-        },
-        {
             "package_name": "kubecost",
             "display_name": "Kubecost",
             "latest_version": "2.2.4",
@@ -879,17 +549,6 @@
             "capabilities": "Basic Install",
             "repository": null,
             "documentation_url": ""
-        },
-        {
-            "package_name": "sosivio",
-            "display_name": "Sosivio | Predictive Troubleshooting for Kubernetes",
-            "latest_version": "2.1.0-158",
-            "latest_channel": "stable",
-            "disconnected_supported": true,
-            "fips_supported": false,
-            "capabilities": "Auto Pilot",
-            "repository": null,
-            "documentation_url": "https://docs.sosiv.io"
         },
         {
             "package_name": "ack-efs-controller",
@@ -969,50 +628,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "pcc-operator",
-            "display_name": "Prisma Cloud Compute Operator",
-            "latest_version": "0.2.0",
-            "latest_channel": "stable",
-            "disconnected_supported": true,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/PaloAltoNetworks/prisma-cloud-compute-operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "yaks",
-            "display_name": "YAKS Operator",
-            "latest_version": "0.19.2",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
-            "repository": "https://github.com/citrusframework/yaks",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "mongodb-operator",
-            "display_name": "MongoDB Operator",
-            "latest_version": "0.3.0",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/ot-container-kit/mongodb-operator",
-            "documentation_url": "https://ot-mongodb-operator.netlify.app/"
-        },
-        {
-            "package_name": "redis-operator",
-            "display_name": "Redis Operator",
-            "latest_version": "0.15.1",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/ot-container-kit/redis-operator",
-            "documentation_url": "https://ot-redis-operator.netlify.app/"
-        },
-        {
             "package_name": "camel-k",
             "display_name": "Camel K Operator",
             "latest_version": "2.2.0",
@@ -1035,59 +650,15 @@
             "documentation_url": "https://docs.datadoghq.com/agent/kubernetes/"
         },
         {
-            "package_name": "proactive-node-scaling-operator",
-            "display_name": "Proactive Node Scaling Operator",
-            "latest_version": "0.4.2",
-            "latest_channel": "alpha",
-            "disconnected_supported": true,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/redhat-cop/proactive-node-scaling-operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "tf-controller",
-            "display_name": "Weave GitOps Terraform Controller",
-            "latest_version": "0.9.0-rc.8",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": null,
-            "documentation_url": "https://weaveworks.github.io/tf-controller/"
-        },
-        {
             "package_name": "konveyor-operator",
             "display_name": "Konveyor Operator",
-            "latest_version": "0.5.0-beta.3",
-            "latest_channel": "beta",
+            "latest_version": "0.5.0-rc.1",
+            "latest_channel": "rc",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/konveyor/tackle2-operator",
             "documentation_url": "https://konveyor.github.io/tackle"
-        },
-        {
-            "package_name": "opendatahub-operator",
-            "display_name": "Open Data Hub Operator",
-            "latest_version": "2.15.0",
-            "latest_channel": "fast",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
-            "repository": "https://github.com/opendatahub-io/opendatahub-operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "ucs-ci-solutions-operator",
-            "display_name": "UCS-CI-Solutions-Operator",
-            "latest_version": "0.0.1",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": null,
-            "documentation_url": ""
         },
         {
             "package_name": "dell-csm-operator",
@@ -1110,17 +681,6 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/aws-controllers-k8s",
             "documentation_url": "https://aws-controllers-k8s.github.io/community/"
-        },
-        {
-            "package_name": "sn-operator",
-            "display_name": "StreamNative Operator",
-            "latest_version": "0.4.0",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Auto Pilot",
-            "repository": null,
-            "documentation_url": "https://docs.streamnative.io"
         },
         {
             "package_name": "ack-cloudtrail-controller",
@@ -1178,28 +738,6 @@
             "documentation_url": "https://aws-controllers-k8s.github.io/community/"
         },
         {
-            "package_name": "mercury-operator",
-            "display_name": "Mercury Operator",
-            "latest_version": "1.0.2",
-            "latest_channel": "dev",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/open-accelerators/mercury",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "zookeeper-operator",
-            "display_name": "ZooKeeper Operator",
-            "latest_version": "0.17.10",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
-            "repository": null,
-            "documentation_url": "https://docs.streamnative.io/operators/zk-operator/tutorial/deploy-zk"
-        },
-        {
             "package_name": "kubeturbo",
             "display_name": "Kubeturbo Operator",
             "latest_version": "8.6.5-beta.1",
@@ -1208,17 +746,6 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/turbonomic/kubeturbo/tree/master/deploy/kubeturbo-operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "sap-commerce-operator",
-            "display_name": "SAP Commerce Operator",
-            "latest_version": "0.0.4",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/redhat-sap/sap-commerce-operator",
             "documentation_url": ""
         },
         {
@@ -1231,17 +758,6 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/aws-controllers-k8s",
             "documentation_url": "https://aws-controllers-k8s.github.io/community/"
-        },
-        {
-            "package_name": "pubsubplus-eventbroker-operator",
-            "display_name": "Solace PubSub+ Event Broker Operator",
-            "latest_version": "1.1.0",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/SolaceProducts/pubsubplus-kubernetes-quickstart",
-            "documentation_url": ""
         },
         {
             "package_name": "kuadrant-operator",
@@ -1310,37 +826,15 @@
             "documentation_url": ""
         },
         {
-            "package_name": "sailoperator",
-            "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2024-05-13",
-            "latest_channel": "3.0-nightly",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/istio-ecosystem/sail-operator",
-            "documentation_url": ""
-        },
-        {
             "package_name": "ack-documentdb-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon DocumentDB",
-            "latest_version": "0.0.6",
+            "latest_version": "0.0.7",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/aws-controllers-k8s",
             "documentation_url": "https://aws-controllers-k8s.github.io/community/"
-        },
-        {
-            "package_name": "neuvector-community-operator",
-            "display_name": "NeuVector Operator",
-            "latest_version": "1.4.6",
-            "latest_channel": "beta",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/neuvector/neuvector-operator",
-            "documentation_url": ""
         },
         {
             "package_name": "ibm-block-csi-operator-community",
@@ -1351,39 +845,6 @@
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/IBM/ibm-block-csi-operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "percona-postgresql-operator",
-            "display_name": "Percona Operator for PostgreSQL",
-            "latest_version": "2.4.0",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/percona/percona-postgresql-operator",
-            "documentation_url": "https://docs.percona.com/percona-operator-for-postgresql/index.html"
-        },
-        {
-            "package_name": "spark-helm-operator",
-            "display_name": "Spark Helm Operator",
-            "latest_version": "0.0.2",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": null,
-            "documentation_url": ""
-        },
-        {
-            "package_name": "node-maintenance-operator",
-            "display_name": "Node Maintenance Operator - Community Edition",
-            "latest_version": "0.17.0",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/medik8s/node-maintenance-operator",
             "documentation_url": ""
         },
         {
@@ -1398,28 +859,6 @@
             "documentation_url": "https://aws-controllers-k8s.github.io/community/"
         },
         {
-            "package_name": "namespace-configuration-operator",
-            "display_name": "Namespace Configuration Operator",
-            "latest_version": "1.2.6",
-            "latest_channel": "alpha",
-            "disconnected_supported": true,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
-            "repository": "https://github.com/redhat-cop/namespace-configuration-operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "sigstore-helm-operator",
-            "display_name": "sigstore",
-            "latest_version": "0.0.1",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/sigstore/sigstore-helm-operator",
-            "documentation_url": ""
-        },
-        {
             "package_name": "ack-opensearchservice-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon OpenSearch Service",
             "latest_version": "0.0.26",
@@ -1429,17 +868,6 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/aws-controllers-k8s",
             "documentation_url": "https://aws-controllers-k8s.github.io/community/"
-        },
-        {
-            "package_name": "multi-nic-cni-operator",
-            "display_name": "multi-nic-cni-operator",
-            "latest_version": "1.3.0",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "http://github.com/foundation-model-stack/multi-nic-cni",
-            "documentation_url": ""
         },
         {
             "package_name": "ack-pipes-controller",
@@ -1475,17 +903,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "nexus-operator",
-            "display_name": "EDP Nexus Operator",
-            "latest_version": "3.2.0",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/epam/edp-nexus-operator",
-            "documentation_url": ""
-        },
-        {
             "package_name": "cert-utils-operator",
             "display_name": "Cert Utils Operator",
             "latest_version": "1.3.12",
@@ -1494,17 +911,6 @@
             "fips_supported": false,
             "capabilities": "Deep Insights",
             "repository": "https://github.com/redhat-cop/cert-utils-operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "odoo-operator",
-            "display_name": "Odoo Operator",
-            "latest_version": "0.0.2",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
-            "repository": "https://github.com/ursais/odoo-operator",
             "documentation_url": ""
         },
         {
@@ -1519,17 +925,6 @@
             "documentation_url": "https://github.com/3scale/apicast-operator/tree/v0.7.1"
         },
         {
-            "package_name": "rhoas-operator",
-            "display_name": "OpenShift Application Services (RHOAS)",
-            "latest_version": "0.13.0",
-            "latest_channel": "beta",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/redhat-developer/app-services-operator",
-            "documentation_url": ""
-        },
-        {
             "package_name": "customized-user-remediation",
             "display_name": "Customized User Remediation Operator - Community Edition",
             "latest_version": "0.1.0",
@@ -1541,28 +936,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "pulsar-resources-operator",
-            "display_name": "Pulsar Resources Operator",
-            "latest_version": "0.4.10",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
-            "repository": null,
-            "documentation_url": ""
-        },
-        {
-            "package_name": "portworx-essentials",
-            "display_name": "Portworx Essentials",
-            "latest_version": "24.1.0",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Auto Pilot",
-            "repository": "https://github.com/libopenstorage/operator",
-            "documentation_url": "https://docs.portworx.com"
-        },
-        {
             "package_name": "dynatrace-operator",
             "display_name": "Dynatrace Operator",
             "latest_version": "1.2.1",
@@ -1571,28 +944,6 @@
             "fips_supported": false,
             "capabilities": "Deep Insights",
             "repository": "https://github.com/Dynatrace/dynatrace-operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "stolostron-engine",
-            "display_name": "Stolostron Engine",
-            "latest_version": "0.4.0",
-            "latest_channel": "community-0.4",
-            "disconnected_supported": true,
-            "fips_supported": true,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/stolostron/stolostron",
-            "documentation_url": "https://github.com/stolostron/stolostron"
-        },
-        {
-            "package_name": "multicluster-global-hub-operator",
-            "display_name": "Multicluster Global Hub Operator",
-            "latest_version": "1.3.0-dev.20240724",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/stolostron/multicluster-global-hub",
             "documentation_url": ""
         },
         {
@@ -1616,28 +967,6 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/IBM/ibm-spectrum-scale-csi/",
             "documentation_url": ""
-        },
-        {
-            "package_name": "percona-server-mongodb-operator",
-            "display_name": "Percona Distribution for MongoDB Operator",
-            "latest_version": "1.16.1",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/percona/percona-server-mongodb-operator",
-            "documentation_url": "https://percona.github.io/percona-server-mongodb-operator/"
-        },
-        {
-            "package_name": "move2kube-operator",
-            "display_name": "Konveyor Move2Kube",
-            "latest_version": "0.3.14-rc.0",
-            "latest_channel": "prerelease",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/konveyor/move2kube-operator",
-            "documentation_url": "https://move2kube.konveyor.io/"
         },
         {
             "package_name": "cxl-operator",
@@ -1670,17 +999,6 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/maistra/istio-workspace",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "oadp-operator",
-            "display_name": "OADP Operator",
-            "latest_version": "0.5.6",
-            "latest_channel": "stable",
-            "disconnected_supported": true,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/openshift/oadp-operator",
             "documentation_url": ""
         },
         {
@@ -1726,61 +1044,6 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/aws-controllers-k8s",
             "documentation_url": "https://aws-controllers-k8s.github.io/community/"
-        },
-        {
-            "package_name": "rabbitmq-cluster-operator",
-            "display_name": "RabbitMQ-cluster-operator",
-            "latest_version": "2.9.0",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/rabbitmq/cluster-operator",
-            "documentation_url": "https://www.rabbitmq.com/kubernetes/operator/operator-overview.html"
-        },
-        {
-            "package_name": "ndmspc-operator",
-            "display_name": "NdmSpc operator",
-            "latest_version": "0.20240412.0",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://gitlab.com/ndmspc/ndmspc-operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "nlp-server",
-            "display_name": "nlp-server",
-            "latest_version": "0.8.6",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": null,
-            "documentation_url": ""
-        },
-        {
-            "package_name": "ripsaw",
-            "display_name": "benchmark-operator",
-            "latest_version": "0.1.0",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/cloud-bulldozer/benchmark-operator",
-            "documentation_url": "https://github.com/cloud-bulldozer/benchmark-operator/tree/master/docs"
-        },
-        {
-            "package_name": "self-node-remediation",
-            "display_name": "Self Node Remediation Operator - Community Edition",
-            "latest_version": "0.8.0",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/medik8s/self-node-remediation",
-            "documentation_url": ""
         },
         {
             "package_name": "hedvig-operator",
@@ -1838,28 +1101,6 @@
             "documentation_url": "https://aws-controllers-k8s.github.io/community/"
         },
         {
-            "package_name": "pelorus-operator",
-            "display_name": "Pelorus Operator",
-            "latest_version": "0.0.9",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/dora-metrics/pelorus/",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "tagger",
-            "display_name": "Tagger",
-            "latest_version": "2.1.17",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
-            "repository": "https://github.com/ricardomaraschini/tagger",
-            "documentation_url": "https://github.com/ricardomaraschini/tagger/releases/download/v2.1.17/README.pdf"
-        },
-        {
             "package_name": "ack-dynamodb-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon DynamoDB",
             "latest_version": "1.2.12",
@@ -1893,17 +1134,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "nfs-provisioner-operator",
-            "display_name": "NFS Provisioner Operator",
-            "latest_version": "0.0.7",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/jooho/nfs-provisioner-operator",
-            "documentation_url": ""
-        },
-        {
             "package_name": "gitwebhook-operator",
             "display_name": "GitWebhook operator",
             "latest_version": "0.1.2",
@@ -1915,17 +1145,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "postgresql",
-            "display_name": "Crunchy Postgres for Kubernetes",
-            "latest_version": "5.6.0",
-            "latest_channel": "v5",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Auto Pilot",
-            "repository": "https://github.com/CrunchyData/postgres-operator",
-            "documentation_url": "https://access.crunchydata.com/documentation/postgres-operator/v5/"
-        },
-        {
             "package_name": "hazelcast-platform-operator",
             "display_name": "Hazelcast Platform Operator",
             "latest_version": "5.12.0",
@@ -1935,39 +1154,6 @@
             "capabilities": "Full Lifecycle",
             "repository": "https://github.com/hazelcast/hazelcast-platform-operator/",
             "documentation_url": "https://docs.hazelcast.com/operator/latest/"
-        },
-        {
-            "package_name": "percona-xtradb-cluster-operator",
-            "display_name": "Percona Operator for MySQL based on Percona XtraDB Cluster",
-            "latest_version": "1.14.0",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/percona/percona-xtradb-cluster-operator",
-            "documentation_url": "https://percona.github.io/percona-xtradb-cluster-operator/"
-        },
-        {
-            "package_name": "pulp-operator",
-            "display_name": "Pulp Project",
-            "latest_version": "1.0.0-beta.4",
-            "latest_channel": "beta",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
-            "repository": "https://github.com/pulp/pulp-operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "pulsar-operator",
-            "display_name": "Pulsar Operator",
-            "latest_version": "0.17.10",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
-            "repository": null,
-            "documentation_url": "https://docs.streamnative.io/operators/pulsar-operator/tutorial/deploy-pulsar"
         },
         {
             "package_name": "aws-efs-operator",
@@ -2025,28 +1211,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "stackgres-community",
-            "display_name": "StackGres",
-            "latest_version": "1.12.0",
-            "latest_channel": "candidate",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://gitlab.com/ongresinc/stackgres",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "mongodb-atlas-kubernetes",
-            "display_name": "MongoDB Atlas Operator",
-            "latest_version": "2.4.0",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
-            "repository": null,
-            "documentation_url": ""
-        },
-        {
             "package_name": "cert-manager",
             "display_name": "cert-manager",
             "latest_version": "1.15.0",
@@ -2056,17 +1220,6 @@
             "capabilities": "Full Lifecycle",
             "repository": "https://github.com/cert-manager/cert-manager",
             "documentation_url": "https://cert-manager.io/"
-        },
-        {
-            "package_name": "tidb-operator",
-            "display_name": "TiDB Operator",
-            "latest_version": "1.3.1",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/pingcap/tidb-operator",
-            "documentation_url": "https://docs.pingcap.com/tidb-in-kubernetes/stable"
         },
         {
             "package_name": "authorino-operator",
@@ -2091,17 +1244,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "vault-config-operator",
-            "display_name": "Vault Config Operator",
-            "latest_version": "0.8.29",
-            "latest_channel": "alpha",
-            "disconnected_supported": true,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
-            "repository": "https://github.com/redhat-cop/vault-config-operator",
-            "documentation_url": ""
-        },
-        {
             "package_name": "l5-operator",
             "display_name": "L5 Operator",
             "latest_version": "0.0.3",
@@ -2111,28 +1253,6 @@
             "capabilities": "Full Lifecycle",
             "repository": "https://github.com/opdev/l5-operator-demo",
             "documentation_url": ""
-        },
-        {
-            "package_name": "sonar-operator",
-            "display_name": "EDP Sonar Operator",
-            "latest_version": "3.1.0",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/epam/edp-sonar-operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "stolostron",
-            "display_name": "Stolostron",
-            "latest_version": "0.4.0",
-            "latest_channel": "community-0.4",
-            "disconnected_supported": true,
-            "fips_supported": true,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/stolostron/stolostron",
-            "documentation_url": "https://github.com/stolostron/stolostron"
         },
         {
             "package_name": "awss3-operator-registry",
@@ -2146,28 +1266,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "microcks",
-            "display_name": "Microcks Operator",
-            "latest_version": "1.9.0",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/microcks/microcks-ansible-operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "ncn-operator",
-            "display_name": "ncn-operator",
-            "latest_version": "0.4.3",
-            "latest_channel": "betav1",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/antline.com/ncn-operator",
-            "documentation_url": ""
-        },
-        {
             "package_name": "k8gb",
             "display_name": "k8gb",
             "latest_version": "0.11.4",
@@ -2176,17 +1274,6 @@
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/k8gb-io/k8gb",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "universal-crossplane",
-            "display_name": "Upbound Universal Crossplane (UXP)",
-            "latest_version": "1.5.1-up.1",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/upbound/universal-crossplane",
             "documentation_url": ""
         },
         {
@@ -2223,50 +1310,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "special-resource-operator",
-            "display_name": "Special Resource Operator",
-            "latest_version": "4.9.0",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": null,
-            "documentation_url": ""
-        },
-        {
-            "package_name": "prometheus",
-            "display_name": "Prometheus Operator",
-            "latest_version": "0.56.3",
-            "latest_channel": "beta",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/prometheus-operator/prometheus-operator",
-            "documentation_url": "https://github.com/prometheus-operator/prometheus-operator/tree/master/Documentation"
-        },
-        {
-            "package_name": "sap-data-intelligence-observer-operator",
-            "display_name": "SAP Data Intelligence 3 - Observer Operator",
-            "latest_version": "1.0.5",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": null,
-            "documentation_url": ""
-        },
-        {
-            "package_name": "must-gather-operator",
-            "display_name": "Must Gather Operator",
-            "latest_version": "1.1.2",
-            "latest_channel": "alpha",
-            "disconnected_supported": true,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/redhat-cop/must-gather-operator",
-            "documentation_url": ""
-        },
-        {
             "package_name": "kiali",
             "display_name": "Kiali Community Operator",
             "latest_version": "1.87.0",
@@ -2280,7 +1323,7 @@
         {
             "package_name": "argocd-operator",
             "display_name": "Argo CD",
-            "latest_version": "0.10.1",
+            "latest_version": "0.11.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2366,28 +1409,6 @@
             "documentation_url": "https://github.com/carlosedp/lbconfig-operator/docs"
         },
         {
-            "package_name": "sosreport-operator",
-            "display_name": "sosreport-operator",
-            "latest_version": "0.0.2",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": null,
-            "documentation_url": ""
-        },
-        {
-            "package_name": "resource-locker-operator",
-            "display_name": "Resource Locker Operator",
-            "latest_version": "1.1.3",
-            "latest_channel": "alpha",
-            "disconnected_supported": true,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/redhat-cop/resource-locker-operator",
-            "documentation_url": ""
-        },
-        {
             "package_name": "datatrucker-operator",
             "display_name": "DataTrucker.IO",
             "latest_version": "2.0.0",
@@ -2396,17 +1417,6 @@
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
             "repository": "hhttps://gitlab.com/datatruckerio/datatrucker-server.git",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "syndesis",
-            "display_name": "Syndesis Operator",
-            "latest_version": "1.13.0",
-            "latest_channel": "1.13.x",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/syndesisio/syndesis/",
             "documentation_url": ""
         },
         {
@@ -2465,17 +1475,6 @@
             "documentation_url": "https://github.com/dell/dell-csi-operator"
         },
         {
-            "package_name": "trustify-operator",
-            "display_name": "Trustify Operator",
-            "latest_version": "0.1.0-alpha.4",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/trustification/trustify-operator",
-            "documentation_url": ""
-        },
-        {
             "package_name": "eclipse-amlen-operator",
             "display_name": "eclipse-amlen-operator",
             "latest_version": "1.1.0",
@@ -2489,24 +1488,13 @@
         {
             "package_name": "ack-networkfirewall-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Network Firewall",
-            "latest_version": "0.0.6",
+            "latest_version": "0.0.7",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/aws-controllers-k8s",
             "documentation_url": "https://aws-controllers-k8s.github.io/community/"
-        },
-        {
-            "package_name": "observability-operator",
-            "display_name": "Observability Operator",
-            "latest_version": "0.0.28",
-            "latest_channel": "candidate",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/rhobs/observability-operator",
-            "documentation_url": ""
         },
         {
             "package_name": "ack-lambda-controller",
@@ -2520,28 +1508,6 @@
             "documentation_url": "https://aws-controllers-k8s.github.io/community/"
         },
         {
-            "package_name": "varnish-operator",
-            "display_name": "Varnish Operator",
-            "latest_version": "0.27.2",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
-            "repository": "https://github.com/IBM/varnish-operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "project-quay",
-            "display_name": "Quay",
-            "latest_version": "3.12.0",
-            "latest_channel": "stable-3.12",
-            "disconnected_supported": true,
-            "fips_supported": true,
-            "capabilities": "Full Lifecycle",
-            "repository": "https://github.com/quay/quay-operator",
-            "documentation_url": ""
-        },
-        {
             "package_name": "koku-metrics-operator",
             "display_name": "Koku Metrics Operator",
             "latest_version": "3.3.0",
@@ -2550,39 +1516,6 @@
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/project-koku/koku-metrics-operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "victoriametrics-operator",
-            "display_name": "VictoriaMetrics Operator",
-            "latest_version": "0.46.4",
-            "latest_channel": "beta",
-            "disconnected_supported": false,
-            "fips_supported": true,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/VictoriaMetrics/operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "oci-ccm-operator",
-            "display_name": "oci-ccm-operator",
-            "latest_version": "0.0.9",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": null,
-            "documentation_url": ""
-        },
-        {
-            "package_name": "multicluster-operators-subscription",
-            "display_name": "Multicluster Subscription Operator",
-            "latest_version": "0.4.1",
-            "latest_channel": "release-2.6",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/open-cluster-management-io/multicloud-operators-subscription",
             "documentation_url": ""
         },
         {
@@ -2632,24 +1565,13 @@
         {
             "package_name": "ack-s3-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon S3",
-            "latest_version": "1.0.12",
+            "latest_version": "1.0.13",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/aws-controllers-k8s",
             "documentation_url": "https://aws-controllers-k8s.github.io/community/"
-        },
-        {
-            "package_name": "rabbitmq-single-active-consumer-operator",
-            "display_name": "rabbitmq-single-active-consumer-operator",
-            "latest_version": "0.2.2",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/rabbitmq/single-active-consumer-operator",
-            "documentation_url": ""
         },
         {
             "package_name": "ack-ecs-controller",
@@ -2683,17 +1605,6 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/apimatic/apimatic-kubernetes-operator",
             "documentation_url": "https://docs.apimatic.io/"
-        },
-        {
-            "package_name": "volume-expander-operator",
-            "display_name": "Volume Expander Operator",
-            "latest_version": "0.3.6",
-            "latest_channel": "alpha",
-            "disconnected_supported": true,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/redhat-cop/volume-expander-operator",
-            "documentation_url": ""
         },
         {
             "package_name": "loki-operator",
@@ -2751,39 +1662,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "snyk-operator",
-            "display_name": "Snyk Operator",
-            "latest_version": "1.92.0",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/snyk/kubernetes-monitor",
-            "documentation_url": "https://support.snyk.io/hc/en-us/articles/360003916138-Kubernetes-integration-overview"
-        },
-        {
-            "package_name": "registry-operator",
-            "display_name": "Devfile Registry Operator",
-            "latest_version": "0.2.0",
-            "latest_channel": "beta",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/devfile/registry-operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "openshift-qiskit-operator",
-            "display_name": "QiskitPlayground",
-            "latest_version": "0.2.1",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/qiskit-community/openshift-quantum-operators/tree/master/operators-examples/kubernetes-qiskit-operator",
-            "documentation_url": ""
-        },
-        {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
             "latest_version": "1.2.0",
@@ -2808,7 +1686,7 @@
         {
             "package_name": "group-sync-operator",
             "display_name": "Group Sync Operator",
-            "latest_version": "0.0.28",
+            "latest_version": "0.0.29",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -2848,17 +1726,6 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/aws-controllers-k8s",
             "documentation_url": "https://aws-controllers-k8s.github.io/community/"
-        },
-        {
-            "package_name": "trident-operator",
-            "display_name": "Astra Trident",
-            "latest_version": "24.6.0",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/netapp/trident",
-            "documentation_url": ""
         }
     ]
 }
