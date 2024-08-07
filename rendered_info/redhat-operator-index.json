@@ -322,7 +322,7 @@
         {
             "package_name": "bamoe-businessautomation-operator",
             "display_name": "IBM Business Automation",
-            "latest_version": "8.0.5-2",
+            "latest_version": "8.0.5-3",
             "latest_channel": "8.x-stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -344,7 +344,7 @@
         {
             "package_name": "red-hat-camel-k",
             "display_name": "Red Hat Integration - Camel K",
-            "latest_version": "1.10.6",
+            "latest_version": "1.10.7",
             "latest_channel": "1.10.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -619,7 +619,7 @@
         {
             "package_name": "bamoe-kogito-operator",
             "display_name": "IBM BAMOE Kogito Operator",
-            "latest_version": "8.0.5-2",
+            "latest_version": "8.0.5-3",
             "latest_channel": "8.x",
             "disconnected_supported": false,
             "fips_supported": false,

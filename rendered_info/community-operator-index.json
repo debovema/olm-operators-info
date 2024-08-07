@@ -1224,7 +1224,7 @@
         {
             "package_name": "konveyor-operator",
             "display_name": "Konveyor Operator",
-            "latest_version": "0.5.0",
+            "latest_version": "0.5.1",
             "latest_channel": "konveyor-0.5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1741,7 +1741,7 @@
         {
             "package_name": "ack-ecs-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon ECS",
-            "latest_version": "0.0.7",
+            "latest_version": "0.0.8",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2027,7 +2027,7 @@
         {
             "package_name": "ack-cloudfront-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon CloudFront",
-            "latest_version": "0.0.13",
+            "latest_version": "0.0.14",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2126,7 +2126,7 @@
         {
             "package_name": "ack-networkfirewall-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Network Firewall",
-            "latest_version": "0.0.7",
+            "latest_version": "0.0.8",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
