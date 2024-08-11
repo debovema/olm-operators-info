@@ -409,8 +409,8 @@
         },
         {
             "package_name": "k10-kasten-operator-paygo-rhmp",
-            "display_name": "Kasten K10 (Enterprise - PAYGO)",
-            "latest_version": "7.0.5",
+            "display_name": "Veeam Kasten (Enterprise - PAYGO)",
+            "latest_version": "7.0.6",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
