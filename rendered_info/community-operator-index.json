@@ -872,7 +872,7 @@
         {
             "package_name": "trustify-operator",
             "display_name": "Trustify Operator",
-            "latest_version": "0.1.0-alpha.5",
+            "latest_version": "0.1.0-alpha.7",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2654,7 +2654,7 @@
         {
             "package_name": "patterns-operator",
             "display_name": "Validated Patterns Operator",
-            "latest_version": "0.0.54",
+            "latest_version": "0.0.55",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2863,8 +2863,8 @@
         {
             "package_name": "move2kube-operator",
             "display_name": "Konveyor Move2Kube",
-            "latest_version": "0.3.14-rc.0",
-            "latest_channel": "prerelease",
+            "latest_version": "0.3.14",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
