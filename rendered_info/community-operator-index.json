@@ -14,7 +14,7 @@
         {
             "package_name": "ack-pipes-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EventBridge Pipes",
-            "latest_version": "1.0.10",
+            "latest_version": "1.0.11",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -311,7 +311,7 @@
         {
             "package_name": "ack-eventbridge-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EventBridge",
-            "latest_version": "1.0.13",
+            "latest_version": "1.0.14",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -333,7 +333,7 @@
         {
             "package_name": "ack-kms-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon KMS",
-            "latest_version": "1.0.15",
+            "latest_version": "1.0.16",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -366,7 +366,7 @@
         {
             "package_name": "ack-acm-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon ACM",
-            "latest_version": "0.0.18",
+            "latest_version": "0.0.19",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -487,7 +487,7 @@
         {
             "package_name": "ack-sns-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon SNS",
-            "latest_version": "1.0.12",
+            "latest_version": "1.0.13",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1048,7 +1048,7 @@
         {
             "package_name": "ack-s3-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon S3",
-            "latest_version": "1.0.15",
+            "latest_version": "1.0.16",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1301,7 +1301,7 @@
         {
             "package_name": "ack-cloudfront-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon CloudFront",
-            "latest_version": "0.0.14",
+            "latest_version": "0.0.15",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1653,7 +1653,7 @@
         {
             "package_name": "ack-mq-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon MQ",
-            "latest_version": "0.0.35",
+            "latest_version": "0.0.36",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1664,7 +1664,7 @@
         {
             "package_name": "ack-memorydb-controller",
             "display_name": "AWS Controllers for Kubernetes - MemoryDB",
-            "latest_version": "1.0.4",
+            "latest_version": "1.0.5",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2566,7 +2566,7 @@
         {
             "package_name": "ack-recyclebin-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Recycle Bin",
-            "latest_version": "0.0.1",
+            "latest_version": "0.0.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2731,7 +2731,7 @@
         {
             "package_name": "ack-sfn-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Step Functions",
-            "latest_version": "1.0.13",
+            "latest_version": "1.0.14",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
