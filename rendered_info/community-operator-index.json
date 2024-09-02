@@ -355,7 +355,7 @@
         {
             "package_name": "ack-rds-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon RDS",
-            "latest_version": "1.4.3",
+            "latest_version": "1.4.4",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -685,7 +685,7 @@
         {
             "package_name": "external-secrets-operator",
             "display_name": "External Secrets Operator",
-            "latest_version": "0.10.1",
+            "latest_version": "0.10.2",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -861,7 +861,7 @@
         {
             "package_name": "ack-keyspaces-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Keyspaces",
-            "latest_version": "0.0.15",
+            "latest_version": "0.0.16",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1290,7 +1290,7 @@
         {
             "package_name": "ack-opensearchservice-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon OpenSearch Service",
-            "latest_version": "0.0.27",
+            "latest_version": "0.0.28",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1323,7 +1323,7 @@
         {
             "package_name": "ack-route53resolver-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Route53Resolver",
-            "latest_version": "0.0.9",
+            "latest_version": "0.0.10",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1763,7 +1763,7 @@
         {
             "package_name": "ack-organizations-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Organizations",
-            "latest_version": "0.0.8",
+            "latest_version": "0.0.9",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
