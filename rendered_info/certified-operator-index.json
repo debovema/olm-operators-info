@@ -1862,7 +1862,7 @@
         {
             "package_name": "instana-agent-operator",
             "display_name": "Instana Agent Operator",
-            "latest_version": "2.1.7",
+            "latest_version": "2.1.8",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2111,17 +2111,6 @@
             "capabilities": "Full Lifecycle",
             "repository": null,
             "documentation_url": "https://docs.venafi.cloud/"
-        },
-        {
-            "package_name": "dell-csi-operator-certified",
-            "display_name": "Dell CSI Operator",
-            "latest_version": "1.12.0",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/dell/dell-csi-operator",
-            "documentation_url": "https://github.com/dell/dell-csi-operator"
         },
         {
             "package_name": "hspc-operator",
