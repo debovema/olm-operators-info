@@ -1090,17 +1090,6 @@
             "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.11/"
         },
         {
-            "package_name": "rhbk-operator",
-            "display_name": "Keycloak Operator",
-            "latest_version": "24.0.7-opr.1",
-            "latest_channel": "stable-v24",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/keycloak/keycloak",
-            "documentation_url": "https://www.keycloak.org/guides#operator"
-        },
-        {
             "package_name": "aws-load-balancer-operator",
             "display_name": "AWS Load Balancer Operator",
             "latest_version": "1.1.0",
