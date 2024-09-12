@@ -135,7 +135,7 @@
         {
             "package_name": "elasticsearch-operator",
             "display_name": "OpenShift Elasticsearch Operator",
-            "latest_version": "5.8.11",
+            "latest_version": "5.8.12",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -146,13 +146,13 @@
         {
             "package_name": "deployment-validation-operator",
             "display_name": "Deployment Validation Operator",
-            "latest_version": "0.7.5",
+            "latest_version": "0.7.8",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": null,
-            "documentation_url": ""
+            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_insights_for_openshift/1-latest/html/monitoring_your_openshift_cluster_health_with_insights_advisor/using-insights-to-identify-issues-with-your-cluster#dvo-on-premesis-openshift_deployment-validation-operator"
         },
         {
             "package_name": "cincinnati-operator",
@@ -333,7 +333,7 @@
         {
             "package_name": "cluster-logging",
             "display_name": "Red Hat OpenShift Logging",
-            "latest_version": "5.8.11",
+            "latest_version": "5.8.12",
             "latest_channel": "stable-5.8",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -927,7 +927,7 @@
         {
             "package_name": "loki-operator",
             "display_name": "Loki Operator",
-            "latest_version": "5.8.11",
+            "latest_version": "5.8.12",
             "latest_channel": "stable-5.8",
             "disconnected_supported": false,
             "fips_supported": false,

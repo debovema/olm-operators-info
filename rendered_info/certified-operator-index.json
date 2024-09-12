@@ -287,17 +287,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "stackgres-certified",
-            "display_name": "StackGres",
-            "latest_version": "1.13.0-rc1",
-            "latest_channel": "candidate",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://gitlab.com/ongresinc/stackgres",
-            "documentation_url": ""
-        },
-        {
             "package_name": "keysight-wap-msg-broker",
             "display_name": "Keysight WAP Message Broker Operator",
             "latest_version": "0.1.21",
