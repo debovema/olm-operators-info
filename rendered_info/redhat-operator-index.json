@@ -342,17 +342,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "rhbk-operator",
-            "display_name": "Keycloak Operator",
-            "latest_version": "24.0.8-opr.1",
-            "latest_channel": "stable-v24",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/keycloak/keycloak",
-            "documentation_url": "https://www.keycloak.org/guides#operator"
-        },
-        {
             "package_name": "marin3r-operator",
             "display_name": "Red Hat - MARIN3R",
             "latest_version": "0.13.1",
