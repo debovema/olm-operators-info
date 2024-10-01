@@ -36,7 +36,7 @@
         {
             "package_name": "opentelemetry-product",
             "display_name": "Red Hat build of OpenTelemetry",
-            "latest_version": "0.107.0-4",
+            "latest_version": "0.107.0-4-0.1727168137.p",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -47,7 +47,7 @@
         {
             "package_name": "amq-streams",
             "display_name": "Streams for Apache Kafka",
-            "latest_version": "2.7.0-4",
+            "latest_version": "2.7.0-5",
             "latest_channel": "amq-streams-2.7.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -234,7 +234,7 @@
         {
             "package_name": "openshift-custom-metrics-autoscaler-operator",
             "display_name": "Custom Metrics Autoscaler",
-            "latest_version": "2.14.1-454",
+            "latest_version": "2.14.1-467",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -542,8 +542,8 @@
         {
             "package_name": "ansible-automation-platform-operator",
             "display_name": "Ansible Automation Platform",
-            "latest_version": "2.4.0-0.1727259094",
-            "latest_channel": "stable-2.4-cluster-scoped",
+            "latest_version": "2.5.0-0.1727241223",
+            "latest_channel": "stable-2.5-cluster-scoped",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
@@ -795,7 +795,7 @@
         {
             "package_name": "compliance-operator",
             "display_name": "Compliance Operator",
-            "latest_version": "1.5.1",
+            "latest_version": "1.6.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -883,8 +883,8 @@
         {
             "package_name": "skupper-operator",
             "display_name": "Red Hat Service Interconnect",
-            "latest_version": "1.5.5-rh-1",
-            "latest_channel": "stable",
+            "latest_version": "1.5.5-rh-4",
+            "latest_channel": "stable-1.5",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -1048,8 +1048,8 @@
         {
             "package_name": "ansible-cloud-addons-operator",
             "display_name": "Ansible Cloud Addons",
-            "latest_version": "2.4.0-0.1727255735",
-            "latest_channel": "stable-2.4-cluster-scoped",
+            "latest_version": "2.5.0-0.1727240231",
+            "latest_channel": "stable-2.5-cluster-scoped",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
