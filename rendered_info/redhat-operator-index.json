@@ -124,7 +124,7 @@
         {
             "package_name": "service-registry-operator",
             "display_name": "Red Hat build of Apicurio Registry",
-            "latest_version": "2.6.3",
+            "latest_version": "2.6.5",
             "latest_channel": "2.x",
             "disconnected_supported": true,
             "fips_supported": false,
