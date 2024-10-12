@@ -157,7 +157,7 @@
         {
             "package_name": "habana-ai-operator",
             "display_name": "Intel Gaudi AI accelerator",
-            "latest_version": "1.17.0-495",
+            "latest_version": "1.18.0-524",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -894,7 +894,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "1.3.1",
+            "latest_version": "1.4.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -938,7 +938,7 @@
         {
             "package_name": "nexus-repository-ha-operator-certified",
             "display_name": "Nexus Repository HA Operator",
-            "latest_version": "3.72.0-1",
+            "latest_version": "3.73.0-1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1026,7 +1026,7 @@
         {
             "package_name": "scaleops-operator",
             "display_name": "ScaleOps",
-            "latest_version": "1.8.2",
+            "latest_version": "1.8.3",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1411,7 +1411,7 @@
         {
             "package_name": "aqua-operator-certified",
             "display_name": "Aqua Security Operator",
-            "latest_version": "2022.4.587",
+            "latest_version": "2022.4.588",
             "latest_channel": "2022.4",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1565,7 +1565,7 @@
         {
             "package_name": "confluent-for-kubernetes",
             "display_name": "Confluent for Kubernetes",
-            "latest_version": "2.9.2",
+            "latest_version": "2.9.3",
             "latest_channel": "2.9",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1697,7 +1697,7 @@
         {
             "package_name": "tawon-operator",
             "display_name": "Tawon",
-            "latest_version": "2.38.0",
+            "latest_version": "2.39.4",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1752,7 +1752,7 @@
         {
             "package_name": "cilium-enterprise",
             "display_name": "Isovalent Enterprise for Cilium",
-            "latest_version": "1.15.8-x05b0ded",
+            "latest_version": "1.15.9-x4daa28e",
             "latest_channel": "1.15",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -2071,7 +2071,7 @@
         {
             "package_name": "portworx-certified",
             "display_name": "Portworx Enterprise",
-            "latest_version": "24.1.1",
+            "latest_version": "24.1.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

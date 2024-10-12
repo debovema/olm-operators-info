@@ -432,7 +432,7 @@
         {
             "package_name": "advanced-cluster-management",
             "display_name": "Advanced Cluster Management for Kubernetes",
-            "latest_version": "2.11.2",
+            "latest_version": "2.11.3",
             "latest_channel": "release-2.11",
             "disconnected_supported": true,
             "fips_supported": true,

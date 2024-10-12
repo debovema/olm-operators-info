@@ -146,7 +146,7 @@
         {
             "package_name": "ack-lambda-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Lambda",
-            "latest_version": "1.5.1",
+            "latest_version": "1.5.3",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -520,7 +520,7 @@
         {
             "package_name": "ack-eks-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EKS",
-            "latest_version": "1.5.0",
+            "latest_version": "1.5.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -828,7 +828,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.12.1",
+            "latest_version": "3.12.2",
             "latest_channel": "stable-3.12",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -2423,7 +2423,7 @@
         {
             "package_name": "portworx-essentials",
             "display_name": "Portworx Essentials",
-            "latest_version": "24.1.1",
+            "latest_version": "24.1.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2687,7 +2687,7 @@
         {
             "package_name": "kepler-operator",
             "display_name": "Kepler",
-            "latest_version": "0.13.0",
+            "latest_version": "0.14.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
