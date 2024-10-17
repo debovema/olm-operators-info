@@ -91,7 +91,7 @@
         {
             "package_name": "stackgres-community",
             "display_name": "StackGres",
-            "latest_version": "1.13.0-rc1",
+            "latest_version": "1.13.0",
             "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -113,7 +113,7 @@
         {
             "package_name": "victoriametrics-operator",
             "display_name": "VictoriaMetrics Operator",
-            "latest_version": "0.47.3",
+            "latest_version": "0.48.3",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": true,
@@ -388,7 +388,7 @@
         {
             "package_name": "authorino-operator",
             "display_name": "Authorino Operator",
-            "latest_version": "0.11.1",
+            "latest_version": "0.12.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -432,7 +432,7 @@
         {
             "package_name": "gitlab-runner-operator",
             "display_name": "GitLab Runner",
-            "latest_version": "1.28.1",
+            "latest_version": "1.29.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -485,6 +485,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "socmmd",
+            "display_name": "socmmd",
+            "latest_version": "0.0.2",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/OpenMPDK/SMDK/tree/main/lib/redhat/socmmd",
+            "documentation_url": ""
+        },
+        {
             "package_name": "ack-applicationautoscaling-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Application Auto Scaling",
             "latest_version": "1.0.18",
@@ -509,7 +520,7 @@
         {
             "package_name": "dns-operator",
             "display_name": "DNS Operator",
-            "latest_version": "0.2.0",
+            "latest_version": "0.6.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -564,7 +575,7 @@
         {
             "package_name": "ncn-operator",
             "display_name": "ncn-operator",
-            "latest_version": "0.9.2",
+            "latest_version": "0.9.8",
             "latest_channel": "betav1",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -828,7 +839,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.12.2",
+            "latest_version": "3.12.3",
             "latest_channel": "stable-3.12",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -883,7 +894,7 @@
         {
             "package_name": "korrel8r",
             "display_name": "Korrel8r",
-            "latest_version": "0.1.7",
+            "latest_version": "0.1.8",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1092,7 +1103,7 @@
         {
             "package_name": "ack-prometheusservice-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Prometheus",
-            "latest_version": "1.2.14",
+            "latest_version": "1.2.15",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1213,7 +1224,7 @@
         {
             "package_name": "mariadb-operator",
             "display_name": "MariaDB Operator",
-            "latest_version": "0.31.0",
+            "latest_version": "0.34.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1224,7 +1235,7 @@
         {
             "package_name": "infinispan",
             "display_name": "Infinispan Operator",
-            "latest_version": "2.4.3",
+            "latest_version": "2.4.4",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1609,11 +1620,11 @@
         {
             "package_name": "aerospike-kubernetes-operator",
             "display_name": "Aerospike Kubernetes Operator",
-            "latest_version": "3.3.1",
+            "latest_version": "3.4.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
+            "capabilities": "Deep Insights",
             "repository": "https://github.com/aerospike/aerospike-kubernetes-operator/",
             "documentation_url": "https://docs.aerospike.com/cloud/kubernetes/operator"
         },
@@ -1697,7 +1708,7 @@
         {
             "package_name": "opendatahub-operator",
             "display_name": "Open Data Hub Operator",
-            "latest_version": "2.18.1",
+            "latest_version": "2.18.2",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1862,7 +1873,7 @@
         {
             "package_name": "patterns-operator",
             "display_name": "Validated Patterns Operator",
-            "latest_version": "0.0.56",
+            "latest_version": "0.0.57",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1950,7 +1961,7 @@
         {
             "package_name": "jaeger",
             "display_name": "Community Jaeger Operator",
-            "latest_version": "1.60.0",
+            "latest_version": "1.61.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -2071,7 +2082,7 @@
         {
             "package_name": "limitador-operator",
             "display_name": "Limitador",
-            "latest_version": "0.8.0",
+            "latest_version": "0.11.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2115,7 +2126,7 @@
         {
             "package_name": "flux-operator",
             "display_name": "Flux Operator",
-            "latest_version": "0.9.0",
+            "latest_version": "0.10.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2368,7 +2379,7 @@
         {
             "package_name": "eginnovations-operator",
             "display_name": "eG Innovations Universal Agent Operator",
-            "latest_version": "0.0.7",
+            "latest_version": "0.0.8",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2423,7 +2434,7 @@
         {
             "package_name": "kuadrant-operator",
             "display_name": "Kuadrant Operator",
-            "latest_version": "0.7.2",
+            "latest_version": "0.11.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2632,8 +2643,8 @@
         {
             "package_name": "konveyor-operator",
             "display_name": "Konveyor Operator",
-            "latest_version": "0.5.3",
-            "latest_channel": "konveyor-0.5",
+            "latest_version": "0.6.0-alpha.1",
+            "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -2742,7 +2753,7 @@
         {
             "package_name": "codeflare-operator",
             "display_name": "CodeFlare Operator",
-            "latest_version": "1.8.0",
+            "latest_version": "1.9.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2874,7 +2885,7 @@
         {
             "package_name": "neuvector-community-operator",
             "display_name": "NeuVector Operator",
-            "latest_version": "1.4.6",
+            "latest_version": "1.4.8",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2918,7 +2929,7 @@
         {
             "package_name": "keycloak-operator",
             "display_name": "Keycloak Operator",
-            "latest_version": "25.0.5",
+            "latest_version": "26.0.0",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
