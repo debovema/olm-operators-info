@@ -388,7 +388,7 @@
         {
             "package_name": "gitlab-runner-operator",
             "display_name": "GitLab Runner",
-            "latest_version": "1.29.0",
+            "latest_version": "1.30.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1389,7 +1389,7 @@
         {
             "package_name": "mongodb-enterprise",
             "display_name": "MongoDB Enterprise Operator",
-            "latest_version": "1.27.0",
+            "latest_version": "1.28.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1433,7 +1433,7 @@
         {
             "package_name": "instana-agent-operator",
             "display_name": "Instana Agent Operator",
-            "latest_version": "2.1.8",
+            "latest_version": "2.1.9",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1450,17 +1450,6 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "uma-operator",
-            "display_name": "DX APM Universal Monitoring Agent",
-            "latest_version": "2024.9.4-25",
-            "latest_channel": "2024.9",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/CA-Application-Performance-Management/certified-operators/tree/main/operators/uma-operator/2024.3.2",
             "documentation_url": ""
         },
         {
@@ -1640,6 +1629,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "minio-aistor-operator",
+            "display_name": "Minio Aistor Operator",
+            "latest_version": "3.0.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "keysight-wap-notifications",
             "display_name": "Keysight WAP Notifications Operator",
             "latest_version": "0.1.21",
@@ -1653,7 +1653,7 @@
         {
             "package_name": "digitalai-release-operator",
             "display_name": "Digital.ai Release",
-            "latest_version": "24.1.4",
+            "latest_version": "24.1.8",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1664,7 +1664,7 @@
         {
             "package_name": "kubecost-operator",
             "display_name": "Kubecost",
-            "latest_version": "2.4.13",
+            "latest_version": "2.4.14",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1708,7 +1708,7 @@
         {
             "package_name": "tawon-operator",
             "display_name": "Tawon",
-            "latest_version": "2.39.8",
+            "latest_version": "2.39.10",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1884,7 +1884,7 @@
         {
             "package_name": "aiu-operator",
             "display_name": "AIU Operator",
-            "latest_version": "2.1.0",
+            "latest_version": "2.1.1",
             "latest_channel": "candidate-2.1",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2049,7 +2049,7 @@
         {
             "package_name": "digitalai-deploy-operator",
             "display_name": "Digital.ai Deploy",
-            "latest_version": "24.1.4",
+            "latest_version": "24.1.8",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
