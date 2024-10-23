@@ -36,7 +36,7 @@
         {
             "package_name": "neuvector-certified-operator",
             "display_name": "NeuVector Operator",
-            "latest_version": "1.4.6",
+            "latest_version": "1.4.7",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -300,8 +300,8 @@
         {
             "package_name": "uma-team-operator",
             "display_name": "DX APM Universal Monitoring Agent Team For Multi-tenancy",
-            "latest_version": "2024.9.4-25",
-            "latest_channel": "2024.9",
+            "latest_version": "2024.10.1-10",
+            "latest_channel": "2024.10",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -1026,7 +1026,7 @@
         {
             "package_name": "scaleops-operator",
             "display_name": "ScaleOps",
-            "latest_version": "1.8.8",
+            "latest_version": "1.8.10",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1224,7 +1224,7 @@
         {
             "package_name": "stackgres-certified",
             "display_name": "StackGres",
-            "latest_version": "1.8.1",
+            "latest_version": "1.13.0",
             "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1453,6 +1453,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "uma-operator",
+            "display_name": "DX APM Universal Monitoring Agent",
+            "latest_version": "2023.12.2-12",
+            "latest_channel": "2023.12",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/CA-Application-Performance-Management/certified-operators/tree/main/operators/uma-operator/2023.9.1",
+            "documentation_url": ""
+        },
+        {
             "package_name": "openshiftartifactoryha-operator",
             "display_name": "JFrog Artifactory Enterprise Operator",
             "latest_version": "1.3.1",
@@ -1653,7 +1664,7 @@
         {
             "package_name": "digitalai-release-operator",
             "display_name": "Digital.ai Release",
-            "latest_version": "24.1.8",
+            "latest_version": "24.1.10",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1708,7 +1719,7 @@
         {
             "package_name": "tawon-operator",
             "display_name": "Tawon",
-            "latest_version": "2.39.16",
+            "latest_version": "2.39.17",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1818,8 +1829,8 @@
         {
             "package_name": "uma-admin-operator",
             "display_name": "DX APM Universal Monitoring Agent Admin For Multi-tenancy",
-            "latest_version": "2024.9.4-25",
-            "latest_channel": "2024.9",
+            "latest_version": "2024.10.1-10",
+            "latest_channel": "2024.10",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
