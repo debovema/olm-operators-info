@@ -542,24 +542,13 @@
         {
             "package_name": "cluster-logging",
             "display_name": "Red Hat OpenShift Logging",
-            "latest_version": "5.8.13",
+            "latest_version": "5.8.14",
             "latest_channel": "stable-5.8",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": null,
             "documentation_url": "https://github.com/openshift/cluster-logging-operator/blob/master/README.adoc"
-        },
-        {
-            "package_name": "opentelemetry-product",
-            "display_name": "Red Hat build of OpenTelemetry",
-            "latest_version": "0.107.0-4-0.1727168137.p",
-            "latest_channel": "stable",
-            "disconnected_supported": true,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "github.com/open-telemetry/opentelemetry-operator",
-            "documentation_url": ""
         },
         {
             "package_name": "devworkspace-operator",
@@ -1169,7 +1158,7 @@
         {
             "package_name": "elasticsearch-operator",
             "display_name": "OpenShift Elasticsearch Operator",
-            "latest_version": "5.8.13",
+            "latest_version": "5.8.14",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1224,7 +1213,7 @@
         {
             "package_name": "loki-operator",
             "display_name": "Loki Operator",
-            "latest_version": "5.8.13",
+            "latest_version": "5.8.14",
             "latest_channel": "stable-5.8",
             "disconnected_supported": false,
             "fips_supported": false,
