@@ -1224,7 +1224,7 @@
         {
             "package_name": "mariadb-operator",
             "display_name": "MariaDB Operator",
-            "latest_version": "0.35.1",
+            "latest_version": "0.35.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1741,7 +1741,7 @@
         {
             "package_name": "mongodb-atlas-kubernetes",
             "display_name": "MongoDB Atlas Operator",
-            "latest_version": "2.5.0",
+            "latest_version": "2.4.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1873,7 +1873,7 @@
         {
             "package_name": "patterns-operator",
             "display_name": "Validated Patterns Operator",
-            "latest_version": "0.0.59",
+            "latest_version": "0.0.58",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2049,7 +2049,7 @@
         {
             "package_name": "ack-sns-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon SNS",
-            "latest_version": "1.1.1",
+            "latest_version": "1.0.14",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2445,7 +2445,7 @@
         {
             "package_name": "portworx-essentials",
             "display_name": "Portworx Essentials",
-            "latest_version": "24.1.2",
+            "latest_version": "24.1.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2709,7 +2709,7 @@
         {
             "package_name": "kepler-operator",
             "display_name": "Kepler",
-            "latest_version": "0.15.0",
+            "latest_version": "0.14.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
