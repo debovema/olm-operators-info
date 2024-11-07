@@ -322,7 +322,7 @@
         {
             "package_name": "jaeger-product",
             "display_name": "Red Hat OpenShift distributed tracing platform",
-            "latest_version": "1.57.0-10",
+            "latest_version": "1.57.0-10-0.1730817420.p",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -718,7 +718,7 @@
         {
             "package_name": "tempo-product",
             "display_name": "Tempo Operator",
-            "latest_version": "0.13.0-1",
+            "latest_version": "0.13.0-1-0.1730817419.p",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
