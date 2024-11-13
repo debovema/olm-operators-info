@@ -265,6 +265,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "datasance-pot-operator",
+            "display_name": "iofog-operator",
+            "latest_version": "3.4.7",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Full Lifecycle",
+            "repository": "https://github.com/datasance/iofog-operator",
+            "documentation_url": ""
+        },
+        {
             "package_name": "contrail-k8s-deployer",
             "display_name": "contrail-k8s-deployer",
             "latest_version": "23.1.0",
