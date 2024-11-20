@@ -190,7 +190,7 @@
         {
             "package_name": "instana-agent-operator-rhmp",
             "display_name": "Instana Agent Operator",
-            "latest_version": "2.1.9",
+            "latest_version": "2.1.10",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -399,7 +399,7 @@
         {
             "package_name": "k10-kasten-operator-paygo-rhmp",
             "display_name": "Veeam Kasten (Enterprise - PAYGO)",
-            "latest_version": "7.0.13",
+            "latest_version": "7.0.14",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
