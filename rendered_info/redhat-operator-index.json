@@ -377,7 +377,7 @@
         {
             "package_name": "skupper-operator",
             "display_name": "Red Hat Service Interconnect",
-            "latest_version": "1.8.1-rh-3",
+            "latest_version": "1.8.2-rh-2",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -861,7 +861,7 @@
         {
             "package_name": "rhsso-operator",
             "display_name": "Red Hat Single Sign-On Operator",
-            "latest_version": "7.6.11-opr-001",
+            "latest_version": "7.6.11-opr-002",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1180,7 +1180,7 @@
         {
             "package_name": "openshift-gitops-operator",
             "display_name": "Red Hat OpenShift GitOps",
-            "latest_version": "1.14.1",
+            "latest_version": "1.14.2",
             "latest_channel": "gitops-1.14",
             "disconnected_supported": true,
             "fips_supported": false,
