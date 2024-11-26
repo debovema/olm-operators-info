@@ -311,7 +311,7 @@
         {
             "package_name": "businessautomation-operator",
             "display_name": "Business Automation",
-            "latest_version": "7.13.5-7",
+            "latest_version": "7.13.5-8",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -388,7 +388,7 @@
         {
             "package_name": "datagrid",
             "display_name": "Data Grid",
-            "latest_version": "8.5.3",
+            "latest_version": "8.5.4",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -762,7 +762,7 @@
         {
             "package_name": "rhpam-kogito-operator",
             "display_name": "RHPAM Kogito Operator",
-            "latest_version": "7.13.5-3",
+            "latest_version": "7.13.5-4",
             "latest_channel": "7.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -938,7 +938,7 @@
         {
             "package_name": "devspaces",
             "display_name": "Red Hat OpenShift Dev Spaces",
-            "latest_version": "3.16.1",
+            "latest_version": "3.17.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
