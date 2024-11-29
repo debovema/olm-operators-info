@@ -817,8 +817,8 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.14.30-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.14.30",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1015,7 +1015,7 @@
         {
             "package_name": "scaleops-operator",
             "display_name": "ScaleOps",
-            "latest_version": "1.10.7",
+            "latest_version": "1.10.11",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1367,7 +1367,7 @@
         {
             "package_name": "mongodb-enterprise",
             "display_name": "MongoDB Enterprise Operator",
-            "latest_version": "1.28.0",
+            "latest_version": "1.29.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1653,7 +1653,7 @@
         {
             "package_name": "kubecost-operator",
             "display_name": "Kubecost",
-            "latest_version": "2.4.22",
+            "latest_version": "2.4.23",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
