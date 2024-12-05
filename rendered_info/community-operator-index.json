@@ -102,7 +102,7 @@
         {
             "package_name": "stackgres-community",
             "display_name": "StackGres",
-            "latest_version": "1.14.1",
+            "latest_version": "1.15.0-rc1",
             "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1912,17 +1912,6 @@
             "fips_supported": false,
             "capabilities": "Deep Insights",
             "repository": "https://github.com/epam/edp-nexus-operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "koku-metrics-operator",
-            "display_name": "Koku Metrics Operator",
-            "latest_version": "3.3.1",
-            "latest_channel": "alpha",
-            "disconnected_supported": true,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/project-koku/koku-metrics-operator",
             "documentation_url": ""
         },
         {
