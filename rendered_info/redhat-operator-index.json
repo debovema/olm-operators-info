@@ -56,6 +56,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "costmanagement-metrics-operator",
+            "display_name": "Cost Management Metrics Operator",
+            "latest_version": "3.3.2",
+            "latest_channel": "stable",
+            "disconnected_supported": true,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/project-koku/koku-metrics-operator",
+            "documentation_url": ""
+        },
+        {
             "package_name": "ingress-node-firewall",
             "display_name": "Ingress Node Firewall Operator",
             "latest_version": "4.12.0-202402081808",
@@ -850,7 +861,7 @@
         {
             "package_name": "rhsso-operator",
             "display_name": "Red Hat Single Sign-On Operator",
-            "latest_version": "7.6.11-opr-002",
+            "latest_version": "7.6.11-opr-003",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -861,7 +872,7 @@
         {
             "package_name": "rhods-operator",
             "display_name": "Red Hat OpenShift AI",
-            "latest_version": "2.14.0",
+            "latest_version": "2.16.0",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
