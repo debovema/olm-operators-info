@@ -1708,8 +1708,8 @@
         {
             "package_name": "tawon-operator",
             "display_name": "Tawon",
-            "latest_version": "2.39.20",
-            "latest_channel": "alpha",
+            "latest_version": "3.0.0-rc3",
+            "latest_channel": "candidate-v3",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
