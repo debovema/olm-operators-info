@@ -311,12 +311,12 @@
         {
             "package_name": "jaeger-product",
             "display_name": "Red Hat OpenShift distributed tracing platform",
-            "latest_version": "1.57.0-10-0.1730817420.p",
+            "latest_version": "1.62.0-1",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Deep Insights",
-            "repository": "https://github.com/jaegertracing/jaeger-operator",
+            "repository": "https://github.com/os-observability/konflux-jaeger",
             "documentation_url": ""
         },
         {
@@ -551,17 +551,6 @@
             "documentation_url": "https://github.com/openshift/cluster-logging-operator/blob/master/README.adoc"
         },
         {
-            "package_name": "opentelemetry-product",
-            "display_name": "Red Hat build of OpenTelemetry",
-            "latest_version": "0.113.0-1",
-            "latest_channel": "stable",
-            "disconnected_supported": true,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/open-telemetry/opentelemetry-operator",
-            "documentation_url": ""
-        },
-        {
             "package_name": "devworkspace-operator",
             "display_name": "DevWorkspace Operator",
             "latest_version": "0.31.2",
@@ -729,7 +718,7 @@
         {
             "package_name": "tempo-product",
             "display_name": "Tempo Operator",
-            "latest_version": "0.13.0-1-0.1730817419.p",
+            "latest_version": "0.14.1-1",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
