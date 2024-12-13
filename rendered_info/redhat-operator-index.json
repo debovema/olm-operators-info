@@ -25,8 +25,8 @@
         {
             "package_name": "red-hat-hawtio-operator",
             "display_name": "HawtIO Operator",
-            "latest_version": "1.0.3",
-            "latest_channel": "stable-v1.0",
+            "latest_version": "1.1.0",
+            "latest_channel": "latest",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -234,7 +234,7 @@
         {
             "package_name": "authorino-operator",
             "display_name": "Red Hat - Authorino (Technical Preview)",
-            "latest_version": "1.0.2",
+            "latest_version": "1.1.0",
             "latest_channel": "tech-preview-v1",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -267,7 +267,7 @@
         {
             "package_name": "lvms-operator",
             "display_name": "LVM Storage",
-            "latest_version": "4.12.7",
+            "latest_version": "4.12.8",
             "latest_channel": "stable-4.12",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -307,17 +307,6 @@
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/kiegroup/kie-cloud-operator",
             "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_process_automation_manager/7.13/#category-deploying-red-hat-process-automation-manager-on-openshift"
-        },
-        {
-            "package_name": "jaeger-product",
-            "display_name": "Red Hat OpenShift distributed tracing platform",
-            "latest_version": "1.62.0-1",
-            "latest_channel": "stable",
-            "disconnected_supported": true,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/os-observability/konflux-jaeger",
-            "documentation_url": ""
         },
         {
             "package_name": "smart-gateway-operator",
@@ -714,17 +703,6 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/backube/volsync",
             "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.12/html/business_continuity/business-cont-overview#volsync"
-        },
-        {
-            "package_name": "tempo-product",
-            "display_name": "Tempo Operator",
-            "latest_version": "0.14.1-1",
-            "latest_channel": "stable",
-            "disconnected_supported": true,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/grafana/tempo-operator",
-            "documentation_url": ""
         },
         {
             "package_name": "apicast-operator",
@@ -1158,8 +1136,8 @@
         {
             "package_name": "openshift-gitops-operator",
             "display_name": "Red Hat OpenShift GitOps",
-            "latest_version": "1.14.2",
-            "latest_channel": "gitops-1.14",
+            "latest_version": "1.15.0",
+            "latest_channel": "gitops-1.15",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Deep Insights",
