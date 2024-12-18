@@ -740,7 +740,7 @@
         {
             "package_name": "fujitsu-enterprise-operator",
             "display_name": "FUJITSU Enterprise Postgres 13 Operator",
-            "latest_version": "3.1.29",
+            "latest_version": "3.1.30",
             "latest_channel": "stable-13",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2181,7 +2181,7 @@
         {
             "package_name": "nginx-ingress-operator",
             "display_name": "Nginx Ingress Operator",
-            "latest_version": "2.4.2",
+            "latest_version": "3.0.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

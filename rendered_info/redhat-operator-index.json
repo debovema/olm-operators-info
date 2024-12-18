@@ -91,7 +91,7 @@
         {
             "package_name": "bamoe-businessautomation-operator",
             "display_name": "IBM Business Automation",
-            "latest_version": "8.0.6-2",
+            "latest_version": "8.0.6-3",
             "latest_channel": "8.x-stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -685,7 +685,7 @@
         {
             "package_name": "multicluster-engine",
             "display_name": "multicluster engine for Kubernetes",
-            "latest_version": "2.6.3",
+            "latest_version": "2.6.4",
             "latest_channel": "stable-2.6",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -839,8 +839,8 @@
         {
             "package_name": "ansible-automation-platform-operator",
             "display_name": "Ansible Automation Platform",
-            "latest_version": "2.5.0-0.1733969526",
-            "latest_channel": "stable-2.5",
+            "latest_version": "2.5.0-0.1733970210",
+            "latest_channel": "stable-2.5-cluster-scoped",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
