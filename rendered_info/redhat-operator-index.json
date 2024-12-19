@@ -212,7 +212,7 @@
         {
             "package_name": "rhacs-operator",
             "display_name": "Advanced Cluster Security for Kubernetes",
-            "latest_version": "4.6.0",
+            "latest_version": "4.6.1",
             "latest_channel": "rhacs-4.6",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -234,7 +234,7 @@
         {
             "package_name": "authorino-operator",
             "display_name": "Red Hat - Authorino (Technical Preview)",
-            "latest_version": "1.1.0",
+            "latest_version": "1.1.1",
             "latest_channel": "tech-preview-v1",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -410,7 +410,7 @@
         {
             "package_name": "advanced-cluster-management",
             "display_name": "Advanced Cluster Management for Kubernetes",
-            "latest_version": "2.11.3",
+            "latest_version": "2.11.4",
             "latest_channel": "release-2.11",
             "disconnected_supported": true,
             "fips_supported": true,
