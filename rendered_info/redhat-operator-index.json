@@ -1169,7 +1169,7 @@
         {
             "package_name": "jws-operator",
             "display_name": "JWS Operator",
-            "latest_version": "2.0.14",
+            "latest_version": "2.0.15",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
