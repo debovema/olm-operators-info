@@ -672,17 +672,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "cloudnative-pg",
-            "display_name": "CloudNativePG",
-            "latest_version": "1.25.0",
-            "latest_channel": "stable-v1",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Auto Pilot",
-            "repository": "https://github.com/cloudnative-pg/cloudnative-pg",
-            "documentation_url": "https://cloudnative-pg.io/docs/"
-        },
-        {
             "package_name": "sn-operator",
             "display_name": "StreamNative Operator",
             "latest_version": "0.6.10",
@@ -1132,17 +1121,6 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/netscaler/netscaler-k8s-ingress-controller",
             "documentation_url": ""
-        },
-        {
-            "package_name": "dell-csm-operator-certified",
-            "display_name": "Dell Container Storage Modules",
-            "latest_version": "1.3.0",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/dell/csm-operator",
-            "documentation_url": "https://dell.github.io/csm-docs/docs/deployment/csmoperator/"
         },
         {
             "package_name": "zookeeper-operator",
@@ -1880,6 +1858,17 @@
             "capabilities": "Basic Install",
             "repository": null,
             "documentation_url": ""
+        },
+        {
+            "package_name": "appian-operator",
+            "display_name": "Appian operator",
+            "latest_version": "0.168.0",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": "https://docs.appian.com/suite/help/latest/k8s"
         },
         {
             "package_name": "percona-server-mongodb-operator-certified",
